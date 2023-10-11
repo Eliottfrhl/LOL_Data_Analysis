@@ -1,1 +1,1 @@
-# LOL_Data_Analysis
+# Data Analysis project on League of Legends
