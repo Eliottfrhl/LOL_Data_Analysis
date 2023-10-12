@@ -1,5 +1,9 @@
 from json import load
 import requests
+import numpy as np
+import matplotlib.pyplot as plt
+import datetime
+
 
 with open('config.json') as f: config = load(f) 
 riot_api_key = config['Riot_api_key']
@@ -23,9 +27,10 @@ class RiotAPI:
         response = requests.get(url)
         return response.json()
     
-    def get_match_list_by_puuid(self,puuid,start=0,count=20):
+    def get_match_list_by_puuid(self,puuid,start=0,count=20,gameMode=None):
+        assert(gameMode in ['ranked','normal','tourney',None])
         url = 'https://europe.api.riotgames.com/lol/match/v5/matches/by-puuid/'+puuid+'/ids?start='+str(start)+'&count='+str(count)+'&api_key=' + self.riot_api_key
-        headers = {'X-Riot-Token': self.riot_api_key}
+        if gameMode != None : url += ('&type='+gameMode)
         response = requests.get(url)
         return response.json()
     
@@ -46,8 +51,8 @@ class Summoner:
             self.puuid = api.get_summoner_by_name(summoner_name)['puuid']
             self.summoner_name = summoner_name
 
-    def get_match_list(self,start=0,count=20):
-        match_list = self.api.get_match_list_by_puuid(self.puuid,start,count)
+    def get_match_list(self,start=0,count=20,gameMode=None):
+        match_list = self.api.get_match_list_by_puuid(self.puuid,start,count,gameMode)
         return match_list
     
     def get_kda(self,start=0,count=20):
@@ -55,8 +60,27 @@ class Summoner:
         kda = 0
         for matchId in match_list:
             game = Match(api,match_id=matchId)
-            kda += game.get_player_performance(self)['kda']
+            kda += game.get_player_performance(self)['challenges']['kda']
         return kda/len(match_list)
+    
+    def display_stats(self,stat_name,start=0,count=20):
+        match_list = self.api.get_match_list_by_puuid(self.puuid,start,count)
+        stats = []
+        champions = []
+        for matchId in match_list:
+            game = Match(self.api,matchId)
+            performance = game.get_player_performance(self)
+            endTimer = game.match_data['info']['gameEndTimestamp']
+            stats.append(performance[stat_name])
+            champions.append(performance['championName']+' '+str(datetime.datetime.fromtimestamp(endTimer/1000).strftime("%d %H:%M")))
+        stats=np.array(stats)
+        champions=np.array(champions)
+        plt.xticks(rotation = 30)
+        plt.bar(champions, stats)
+        plt.show()
+
+        
+
 
 class Match:
     def __init__(self,api,match_id):
@@ -79,5 +103,8 @@ class Match:
 api = RiotAPI()
 
 Player = Summoner(api,summoner_name='Epsyk')
+'''
+game = Match(api,Player.get_match_list()[0])
 
-print(Player.get_kda())
+perfo = game.get_player_performance(Player)'''
+Player.display_stats('assists')
