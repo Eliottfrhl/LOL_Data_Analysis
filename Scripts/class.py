@@ -63,20 +63,20 @@ class Summoner:
             kda += game.get_player_performance(self)['challenges']['kda']
         return kda/len(match_list)
     
-    def display_stats(self,stat_name,start=0,count=20):
-        match_list = self.api.get_match_list_by_puuid(self.puuid,start,count)
+    def display_stats(self,stat_name,start=0,count=20,gameMode=None):
+        match_list = self.api.get_match_list_by_puuid(self.puuid,start,count,gameMode)
         stats = []
         champions = []
         for matchId in match_list:
             game = Match(self.api,matchId)
             performance = game.get_player_performance(self)
             endTimer = game.match_data['info']['gameEndTimestamp']
-            stats.append(performance[stat_name])
+            stats.append(60*performance[stat_name]/game.match_data['info']['gameDuration'])
             champions.append(performance['championName']+' '+str(datetime.datetime.fromtimestamp(endTimer/1000).strftime("%d %H:%M")))
         stats=np.array(stats)
         champions=np.array(champions)
-        plt.xticks(rotation = 30)
-        plt.bar(champions, stats)
+        #plt.xticks(rotation = 30)
+        plt.barh(champions, stats)
         plt.show()
 
         
@@ -107,4 +107,4 @@ Player = Summoner(api,summoner_name='Epsyk')
 game = Match(api,Player.get_match_list()[0])
 
 perfo = game.get_player_performance(Player)'''
-Player.display_stats('assists')
+Player.display_stats('assists',gameMode='ranked')
