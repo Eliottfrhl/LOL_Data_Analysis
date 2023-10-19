@@ -10,9 +10,9 @@ key = config['Riot_api_key']
   
 API = RiotAPI(key)    
 
-Player = Summoner(API, summoner_name="Epsyk")
+Player = Summoner(API, summoner_name="Tourtipouss")
 
-lst = Player.get_match_list(gameMode="ranked",count=100)
+lst = Player.get_match_list(gameMode="ranked",count=5)
 
 print(lst)
 MatchUps = []
