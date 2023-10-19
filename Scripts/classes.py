@@ -2,14 +2,15 @@ from json import load
 import requests
 import numpy as np
 import matplotlib.pyplot as plt
+from matplotlib import image
 import datetime
-
+import json
 
 with open('config.json') as f: config = load(f) 
 riot_api_key = config['Riot_api_key']
 
 class RiotAPI:
-    def __init__(self):
+    def __init__(self,riot_api_key):
         self.riot_api_key = riot_api_key
         
     def get_summoner_by_name(self, summoner_name):
@@ -36,6 +37,11 @@ class RiotAPI:
     
     def get_match_by_id(self,match_id):
         url = 'https://europe.api.riotgames.com/lol/match/v5/matches/' + match_id + '?api_key=' + self.riot_api_key
+        response = requests.get(url)
+        return response.json()
+    
+    def get_match_timeline_by_id(self, match_id):
+        url = 'https://europe.api.riotgames.com/lol/match/v5/matches/' + match_id + '/timeline/?api_key=' + self.riot_api_key
         response = requests.get(url)
         return response.json()
 
@@ -75,7 +81,6 @@ class Summoner:
             champions.append(performance['championName']+' '+str(datetime.datetime.fromtimestamp(endTimer/1000).strftime("%d %H:%M")))
         stats=np.array(stats)
         champions=np.array(champions)
-        #plt.xticks(rotation = 30)
         plt.barh(champions, stats)
         plt.show()
 
@@ -87,6 +92,7 @@ class Match:
         self.api = api
         self.match_id = match_id
         self.match_data = self.api.get_match_by_id(self.match_id)
+        self.match_timeline = self.api.get_match_timeline_by_id(self.match_id)
         
     def get_players(self):
         participants = self.match_data['metadata']['participants']
@@ -98,13 +104,20 @@ class Match:
     def get_player_performance(self, player):
         index = next((index for (index, d) in enumerate(self.match_data['info']['participants']) if d["summonerName"] == player.summoner_name), None)
         return self.match_data['info']['participants'][index]
-        
     
-api = RiotAPI()
-
-Player = Summoner(api,summoner_name='Epsyk')
-'''
-game = Match(api,Player.get_match_list()[0])
-
-perfo = game.get_player_performance(Player)'''
-Player.display_stats('assists',gameMode='ranked')
+    def get_kills(self):
+        kills=[]
+        for frame in self.match_timeline['info']['frames']:
+            for event in frame["events"]:
+                if event["type"]=="CHAMPION_KILL":
+                    try:
+                        dic = {
+                            "killer":event["killerId"],
+                            "victim":event["victimId"],
+                            "timestamp":event["timestamp"],
+                            "position":event["position"],
+                        }
+                    except:
+                        print("Pb pour le kill à la frame: " + str(frame))
+                    kills.append(dic)
+        return kills      
