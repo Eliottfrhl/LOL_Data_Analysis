@@ -2,7 +2,8 @@ from classes import RiotAPI, Summoner, Match
 from json import load, dump
 
 
-def Matchup(Player):
+def MatchUp(API,Player):
+    info = ["championName","kills","deaths","assists"]
     lst = Player.get_match_list(gameMode="ranked",count=5)
 
     print(lst)
