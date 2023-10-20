@@ -47,7 +47,6 @@ def SoloKill(Game,Player):
     p1=players[p1index]
     for player in players:
         if player["Role"]==p1["Role"] and player["PUUID"]!=p1["PUUID"]:p2=player
-    print(p1["summonerName"]+" and "+p2["summonerName"])
     SoloKill = []
     SoloKilled = []
     SoloKill_count = 0
@@ -69,3 +68,25 @@ def SoloKill(Game,Player):
         "SoloKilledCount": SoloKilled_count 
     }
     return dic
+
+def StatsMoy(API, Player, count=20):
+    stats ={
+       "kill":0,
+       "assist" :0,
+       "death" :0,
+       "solokill":0,
+       "solokilled":0,
+    }
+    matchList = Player.get_match_list(gameMode='ranked',count=count)
+    for ID in matchList:
+        Game = Match(API,ID)
+        idx = next((index for (index, d) in enumerate(Game.match_data['info']['participants']) if d["summonerName"] == Player.summoner_name), None)
+        stats["kill"] += Game.match_data["info"]["participants"][idx]["kills"]
+        stats["assist"] += Game.match_data["info"]["participants"][idx]["assists"]
+        stats["death"] += Game.match_data["info"]["participants"][idx]["deaths"]
+        SK = SoloKill(Game,Player)
+        stats["solokill"]+=SK["SoloKillCount"]
+        stats["solokilled"]+=SK["SoloKilledCount"]
+    for key in stats.keys():
+        stats[key]=stats[key]/count
+    return stats

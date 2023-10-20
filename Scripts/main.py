@@ -1,13 +1,14 @@
 from classes import RiotAPI, Summoner, Match
 from json import load, dump
-from playerVisualization import MatchUp, SoloKill
+import playerVisualization as pv
+import gameVisualization as gv
 
 with open('config.json') as f: config = load(f) 
 key = config['Riot_api_key']
   
 API = RiotAPI(key)    
 
-Player = Summoner(API, summoner_name="Tourtipouss")
+Player = Summoner(API, summoner_name="Epsyk")
 
 GameID = Player.get_match_list(gameMode='ranked')
 
