@@ -56,7 +56,7 @@ class Summoner:
             self.summoner_name = api.get_summoner_by_puuid(puuid)['name']
             self.puuid = puuid
         elif (puuid==None):
-            self.puuid = api.get_summoner_by_name(summoner_name)['puuid']
+            self.puuid = self.api.get_summoner_by_name(summoner_name)['puuid']
             self.summoner_name = summoner_name
 
     def get_match_list(self,start=0,count=20,gameMode=None):
@@ -67,7 +67,7 @@ class Summoner:
         match_list = self.api.get_match_list_by_puuid(self.puuid,start,count)
         kda = 0
         for matchId in match_list:
-            game = Match(api,match_id=matchId)
+            game = Match(self.api,match_id=matchId)
             kda += game.get_player_performance(self)['challenges']['kda']
         return kda/len(match_list)
     
