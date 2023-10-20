@@ -21,3 +21,15 @@ Permet de récupérer les derniers matchs de ce joueur, ainsi que diverses infor
 ### Match
 
 Permet de récupérer les informations d'un match.
+
+# Pour Clément
+
+Quand tu arrives, 
+git pull origin main
+pip install -r requirements.txt
+
+Quand tu as fini quelque chose,
+pip freeze > requirements.txt
+Add dans VSCode
+git commit -m "Message"
+git push origin main
