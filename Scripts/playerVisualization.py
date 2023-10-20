@@ -39,4 +39,11 @@ def MatchUp(API,Player):
 
 
 def SoloKill(Game,Player):
-    return True
+    timeline = LastGame.match_timeline
+    lst = []
+    count = 0
+    for frame in timeline["info"]["frames"]:
+        for event in frame["events"]:
+            if event["type"]=="CHAMPION_KILL" and :
+                count += 1
+                lst.append()
