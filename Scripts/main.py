@@ -1,6 +1,6 @@
 from classes import RiotAPI, Summoner, Match
 from json import load, dump
-from playerVisualization import MatchUp
+from playerVisualization import MatchUp, SoloKill
 
 with open('config.json') as f: config = load(f) 
 key = config['Riot_api_key']

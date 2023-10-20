@@ -98,7 +98,15 @@ class Match:
         participants = self.match_data['metadata']['participants']
         players =[]
         for participant in participants:
-            players.append(Summoner(api,puuid=participant).summoner_name)
+            index = self.match_timeline['metadata']['participants'].index(participant)
+            dic = {
+                "PUUID": participant,
+                "summonerName":self.match_data['info']['participants'][index]["summonerName"],
+                "InGameID":index+1,
+                "Role":self.match_data['info']['participants'][index]["teamPosition"],
+                "championName":self.match_data['info']['participants'][index]["championName"],
+            }
+            players.append(dic)
         return players
     
     def get_player_performance(self, player):
