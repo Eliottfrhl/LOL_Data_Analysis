@@ -13,4 +13,10 @@ GameID = Player.get_match_list(gameMode='ranked')
 
 LastGame = Match(API,GameID[0])
 
-print(MatchUp(API,Player))
+timeline = LastGame.match_timeline
+lst = []
+
+for frame in timeline["info"]["frames"]:
+    for event in frame["events"]:
+        if event["type"]=="CHAMPION_KILL" and :
+            

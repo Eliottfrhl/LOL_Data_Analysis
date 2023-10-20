@@ -38,9 +38,5 @@ def MatchUp(API,Player):
 
 
 
-
-
-
-            
-
-
+def SoloKill(Game,Player):
+    return True
