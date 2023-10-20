@@ -2,9 +2,10 @@ from classes import RiotAPI, Summoner, Match
 from json import load, dump
 
 
-def MatchUp(API,Player):
+def MatchUp(API,Player,count=20):
+    # Liste les MatchUps de ce joueur sur les count dernières parties
     info = ["championName","kills","deaths","assists"]
-    lst = Player.get_match_list(gameMode="ranked",count=5)
+    lst = Player.get_match_list(gameMode="ranked",count=count)
 
     print(lst)
     MatchUps = []
@@ -39,6 +40,7 @@ def MatchUp(API,Player):
 
 
 def SoloKill(Game,Player):
+    # Liste les solokill entre le joueur et son vis à vis, dans les 2 sens, lors d'une partie
     timeline = Game.match_timeline
     players = Game.get_players()
     p1index = next((index for (index, d) in enumerate(players) if d["summonerName"] == Player.summoner_name), None)

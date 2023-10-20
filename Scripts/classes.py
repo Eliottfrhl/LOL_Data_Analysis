@@ -10,6 +10,7 @@ with open('config.json') as f: config = load(f)
 riot_api_key = config['Riot_api_key']
 
 class RiotAPI:
+    # Classe qui permet de faire les requêtes à l'API Riot, est nécessaire pour les autres classes par la suite
     def __init__(self,riot_api_key):
         self.riot_api_key = riot_api_key
         
@@ -46,6 +47,7 @@ class RiotAPI:
         return response.json()
 
 class Summoner:
+    # Classe qui représente un joueur. Elle permet d'accéder à la liste de ses matchs mais également à certaines statistiques globales
     def __init__(self,api,puuid=None,summoner_name=None):
         self.api = api
         if(summoner_name==None and puuid==None):
@@ -88,6 +90,7 @@ class Summoner:
 
 
 class Match:
+    # Classe qui représente une partie en particulier. Elle permet de stocker les informations sur cette partie et d'en récupérer des statistiques
     def __init__(self,api,match_id):
         self.api = api
         self.match_id = match_id
