@@ -108,6 +108,7 @@ class Match:
                 "InGameID":index+1,
                 "Role":self.match_data['info']['participants'][index]["teamPosition"],
                 "championName":self.match_data['info']['participants'][index]["championName"],
+                "team":self.match_data['info']['participants'][index]["teamId"],
             }
             players.append(dic)
         return players

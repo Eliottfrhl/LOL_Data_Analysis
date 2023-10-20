@@ -2,7 +2,7 @@ from classes import RiotAPI, Summoner, Match
 from json import load, dump
 
 
-def MatchUp(API,Player,count=20):
+def MatchUp(API,Player,count=20,roleAdverse="SAME"):
     # Liste les MatchUps de ce joueur sur les count dernières parties
     info = ["championName","kills","deaths","assists"]
     lst = Player.get_match_list(gameMode="ranked",count=count)
@@ -14,26 +14,26 @@ def MatchUp(API,Player,count=20):
         Game = Match(API,match_id)
         MatchUp = {}
         playerPerformance = Game.get_player_performance(Player)
-        role = playerPerformance["teamPosition"]
-        MatchUp["role"]=role
+        if roleAdverse=="SAME":role = playerPerformance["teamPosition"]
         for participant in Game.match_data["info"]["participants"]:
-            if participant["teamPosition"] == role:
-                if participant["summonerName"] == Player.summoner_name:
-                    MatchUp["p1"]={
-                        "summoner": participant["summonerName"],
-                        "champion":participant["championName"],
-                        "kills":participant["kills"],
-                        "deaths":participant["deaths"],
-                        "assists":participant["assists"]
-                    }
-                else:
-                    MatchUp["p2"]={
-                        "summoner": participant["summonerName"],
-                        "champion":participant["championName"],
-                        "kills":participant["kills"],
-                        "deaths":participant["deaths"],
-                        "assists":participant["assists"]
-                    }
+            if participant["summonerName"] == Player.summoner_name:
+                MatchUp["p1"]={
+                    "summoner": participant["summonerName"],
+                    "champion":participant["championName"],
+                    "kills":participant["kills"],
+                    "deaths":participant["deaths"],
+                    "assists":participant["assists"],
+                    "role":role,
+                }
+            elif participant["teamPosition"] == role:
+                MatchUp["p2"]={
+                    "summoner": participant["summonerName"],
+                    "champion":participant["championName"],
+                    "kills":participant["kills"],
+                    "deaths":participant["deaths"],
+                    "assists":participant["assists"],
+                    "role":role,
+                }
         MatchUps.append(MatchUp)
     return(MatchUps)
 
