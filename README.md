@@ -25,11 +25,11 @@ Permet de récupérer les informations d'un match.
 # Pour Clément
 
 Quand tu arrives, 
-git pull origin main
-pip install -r requirements.txt
+- git pull origin main
+- pip install -r requirements.txt
 
 Quand tu as fini quelque chose,
-pip freeze > requirements.txt
-Add dans VSCode
-git commit -m "Message"
-git push origin main
+- pip freeze > requirements.txt
+- Add dans VSCode
+- git commit -m "Message"
+- git push origin main
