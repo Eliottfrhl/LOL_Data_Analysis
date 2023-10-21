@@ -14,6 +14,7 @@ def MatchUp(API,Player,count=20,roleAdverse="SAME"):
         Game = Match(API,match_id)
         MatchUp = {}
         playerPerformance = Game.get_player_performance(Player)
+        MatchUp["win"] = playerPerformance["win"]
         if roleAdverse=="SAME":role = playerPerformance["teamPosition"]
         for participant in Game.match_data["info"]["participants"]:
             if participant["summonerName"] == Player.summoner_name:
