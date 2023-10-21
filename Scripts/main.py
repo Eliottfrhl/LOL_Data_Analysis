@@ -13,5 +13,3 @@ Player = Summoner(API, summoner_name="Epsyk")
 GameID = Player.get_match_list(gameMode='ranked')
 
 LastGame = Match(API,GameID[0])
-
-print(pv.StatsMoy(API,Player,count=30))

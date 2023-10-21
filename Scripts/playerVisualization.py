@@ -37,7 +37,8 @@ def MatchUp(API,Player,count=20,roleAdverse="SAME"):
         MatchUps.append(MatchUp)
     return(MatchUps)
 
-
+def MatchUpWinrate(MatchUps):
+    return True
 
 def SoloKill(Game,Player):
     # Liste les solokill entre le joueur et son vis à vis, dans les 2 sens, lors d'une partie
