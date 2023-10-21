@@ -7,7 +7,6 @@ def MatchUp(API,Player,count=20,roleAdverse="SAME"):
     info = ["championName","kills","deaths","assists"]
     lst = Player.get_match_list(gameMode="ranked",count=count)
 
-    print(lst)
     MatchUps = []
 
     for match_id in lst:
@@ -39,7 +38,41 @@ def MatchUp(API,Player,count=20,roleAdverse="SAME"):
     return(MatchUps)
 
 def MatchUpWinrate(MatchUps):
-    return True
+    with open("data/champions.json",encoding="utf-8") as f:
+        champ_js = load(f)
+
+    champs = {}
+
+    for champ in champ_js.keys():
+        champs[champ_js[champ]["name"]] = {
+            "win_count":0,
+            "loss_count":0,
+        }
+        
+    results = {}
+
+    for champ in champ_js.keys():
+        results[champ_js[champ]["name"]] = champs
+
+    MatchUps=pv.MatchUp(API,Player)
+
+    for MatchUp in MatchUps:
+        print(MatchUp["p1"]["champion"])
+        if MatchUp["win"]==True:
+            results[MatchUp["p1"]["champion"]][MatchUp["p2"]["champion"]]["win_count"]+=1
+        else:
+            results[MatchUp["p1"]["champion"]][MatchUp["p2"]["champion"]]["loss_count"]+=1
+
+    for key1 in results.keys():
+        for key2 in results[key1].keys():
+            if results[key1][key2]["win_count"]+results[key1][key2]["loss_count"] !=0:
+                results[key1][key2]["winrate"]=(results[key1][key2]["win_count"])/(results[key1][key2]["win_count"]+results[key1][key2]["loss_count"])
+    return results
+    '''
+    for result in results["Samira"].keys():
+        if "winrate" in results["Samira"][result].keys():
+            print(result)
+            print(results["Samira"][result])'''
 
 def SoloKill(Game,Player):
     # Liste les solokill entre le joueur et son vis à vis, dans les 2 sens, lors d'une partie
