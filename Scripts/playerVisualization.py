@@ -1,5 +1,6 @@
 from classes import RiotAPI, Summoner, Match
 from json import load, dump
+from copy import deepcopy
 
 
 def MatchUp(API,Player,count=20,roleAdverse="SAME"):
@@ -38,6 +39,7 @@ def MatchUp(API,Player,count=20,roleAdverse="SAME"):
     return(MatchUps)
 
 def MatchUpWinrate(MatchUps):
+    # Retourne un dictionnaire de <nombre de champions> dictionnaires, chacun de taille <nombre de champions> indiquant les statistiques du matchup entre le champion de p1 et les autres
     with open("data/champions.json",encoding="utf-8") as f:
         champ_js = load(f)
 
@@ -52,10 +54,9 @@ def MatchUpWinrate(MatchUps):
     results = {}
 
     for champ in champ_js.keys():
-        results[champ_js[champ]["name"]] = champs
+        results[champ_js[champ]["name"]] = deepcopy(champs)
 
     for MatchUp in MatchUps:
-        print(MatchUp["p1"]["champion"])
         if MatchUp["win"]==True:
             results[MatchUp["p1"]["champion"]][MatchUp["p2"]["champion"]]["win_count"]+=1
         else:
@@ -66,11 +67,7 @@ def MatchUpWinrate(MatchUps):
             if results[key1][key2]["win_count"]+results[key1][key2]["loss_count"] !=0:
                 results[key1][key2]["winrate"]=(results[key1][key2]["win_count"])/(results[key1][key2]["win_count"]+results[key1][key2]["loss_count"])
     return results
-    '''
-    for result in results["Samira"].keys():
-        if "winrate" in results["Samira"][result].keys():
-            print(result)
-            print(results["Samira"][result])'''
+
 
 def SoloKill(Game,Player):
     # Liste les solokill entre le joueur et son vis à vis, dans les 2 sens, lors d'une partie
