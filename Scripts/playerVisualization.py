@@ -3,7 +3,7 @@ from json import load, dump
 from copy import deepcopy
 
 
-def MatchUp(API,Player,count=20,roleAdverse="SAME"):
+def LastMatchUps(API,Player,count=20,roleAdverse="SAME"):
     # Liste les MatchUps de ce joueur sur les count dernières parties
     info = ["championName","kills","deaths","assists"]
     lst = Player.get_match_list(gameMode="ranked",count=count)
@@ -40,13 +40,14 @@ def MatchUp(API,Player,count=20,roleAdverse="SAME"):
 
 def MatchUpWinrate(MatchUps):
     # Retourne un dictionnaire de <nombre de champions> dictionnaires, chacun de taille <nombre de champions> indiquant les statistiques du matchup entre le champion de p1 et les autres
+    length = 0
     with open("data/champions.json",encoding="utf-8") as f:
         champ_js = load(f)
 
     champs = {}
 
     for champ in champ_js.keys():
-        champs[champ_js[champ]["name"]] = {
+        champs[champ_js[champ]["id"]] = {
             "win_count":0,
             "loss_count":0,
         }
@@ -54,13 +55,16 @@ def MatchUpWinrate(MatchUps):
     results = {}
 
     for champ in champ_js.keys():
-        results[champ_js[champ]["name"]] = deepcopy(champs)
+        results[champ_js[champ]["id"]] = deepcopy(champs)
 
     for MatchUp in MatchUps:
         if MatchUp["win"]==True:
             results[MatchUp["p1"]["champion"]][MatchUp["p2"]["champion"]]["win_count"]+=1
         else:
             results[MatchUp["p1"]["champion"]][MatchUp["p2"]["champion"]]["loss_count"]+=1
+        length+=1
+        if length%10==0:
+            print(str(length)+" games done")
 
     for key1 in results.keys():
         for key2 in results[key1].keys():
@@ -68,7 +72,19 @@ def MatchUpWinrate(MatchUps):
                 results[key1][key2]["winrate"]=(results[key1][key2]["win_count"])/(results[key1][key2]["win_count"]+results[key1][key2]["loss_count"])
     return results
 
-
+def BestMatchUps(MatchUpsWinrate, champAdverse):
+    result = []
+    for myChamp in MatchUpsWinrate.keys():
+        if "winrate" in MatchUpsWinrate[myChamp][champAdverse].keys():
+            dic = {
+                "championName": myChamp,
+                "winrate": MatchUpsWinrate[myChamp][champAdverse]["winrate"],
+                "numberOfGames": MatchUpsWinrate[myChamp][champAdverse]["win_count"]+MatchUpsWinrate[myChamp][champAdverse]["loss_count"],
+            }
+            result.append(dic)
+    return sorted(result, key=lambda x: x["winrate"], reverse=True)
+    
+    
 def SoloKill(Game,Player):
     # Liste les solokill entre le joueur et son vis à vis, dans les 2 sens, lors d'une partie
     timeline = Game.match_timeline

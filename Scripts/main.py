@@ -10,6 +10,9 @@ API = RiotAPI(key)
 
 Player = Summoner(API, summoner_name="Epsyk")
 
-GameID = Player.get_match_list(gameMode='ranked')
+print("Retrieving last MatchUps")
+mu1 = pv.LastMatchUps(API,Player,count=100)
+print("Establishing all MatchUps winrate")
+mu2 = pv.MatchUpWinrate(mu1)
 
-LastGame = Match(API,GameID[0])
+print(pv.BestMatchUps(mu2,"Nautilus"))
