@@ -1,6 +1,7 @@
 from classes import RiotAPI, Summoner, Match
 from json import load, dump
 from copy import deepcopy
+import progressbar
 
 
 def LastMatchUps(API,Player,count=20,roleAdverse="SAME"):
@@ -9,7 +10,9 @@ def LastMatchUps(API,Player,count=20,roleAdverse="SAME"):
     lst = Player.get_match_list(gameMode="ranked",count=count)
 
     MatchUps = []
-
+    bar = progressbar.ProgressBar().start()
+    barupdate_count =0
+    
     for match_id in lst:
         Game = Match(API,match_id)
         MatchUp = {}
@@ -36,35 +39,33 @@ def LastMatchUps(API,Player,count=20,roleAdverse="SAME"):
                     "role":role,
                 }
         MatchUps.append(MatchUp)
+        barupdate_count+=1
+        bar.update((barupdate_count/count)*100)
     return(MatchUps)
 
 def MatchUpWinrate(MatchUps):
     # Retourne un dictionnaire de <nombre de champions> dictionnaires, chacun de taille <nombre de champions> indiquant les statistiques du matchup entre le champion de p1 et les autres
-    length = 0
-    with open("data/champions.json",encoding="utf-8") as f:
+    with open("data/champion.json",encoding="utf-8") as f:
         champ_js = load(f)
 
     champs = {}
 
-    for champ in champ_js.keys():
-        champs[champ_js[champ]["id"]] = {
+    for champ in champ_js["data"].keys():
+        champs[champ_js["data"][champ]["id"]] = {
             "win_count":0,
             "loss_count":0,
         }
         
     results = {}
 
-    for champ in champ_js.keys():
-        results[champ_js[champ]["id"]] = deepcopy(champs)
+    for champ in champ_js["data"].keys():
+        results[champ_js["data"][champ]["id"]] = deepcopy(champs)
 
     for MatchUp in MatchUps:
         if MatchUp["win"]==True:
             results[MatchUp["p1"]["champion"]][MatchUp["p2"]["champion"]]["win_count"]+=1
         else:
             results[MatchUp["p1"]["champion"]][MatchUp["p2"]["champion"]]["loss_count"]+=1
-        length+=1
-        if length%10==0:
-            print(str(length)+" games done")
 
     for key1 in results.keys():
         for key2 in results[key1].keys():

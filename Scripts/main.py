@@ -8,11 +8,12 @@ key = config['Riot_api_key']
   
 API = RiotAPI(key)    
 
-Player = Summoner(API, summoner_name="Epsyk")
+Player = Summoner(API, summoner_name="Tourtipouss")
 
 print("Retrieving last MatchUps")
-mu1 = pv.LastMatchUps(API,Player,count=100)
+mu1 = pv.LastMatchUps(API,Player,count=50)
+print(mu1)
 print("Establishing all MatchUps winrate")
 mu2 = pv.MatchUpWinrate(mu1)
 
-print(pv.BestMatchUps(mu2,"Nautilus"))
+print(pv.BestMatchUps(mu2,"Kaisa"))

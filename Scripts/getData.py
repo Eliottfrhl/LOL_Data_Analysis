@@ -8,6 +8,7 @@ def getChampions(version,language="en_US"):
     url = "http://ddragon.leagueoflegends.com/cdn/"+version+"/data/"+language+"/champion.json"
     response = requests.get(url)
 
-    print(response)
+    with open("data/champion.json","w") as file:
+        json.dump(response.json(),file)
     
 getChampions(version)
