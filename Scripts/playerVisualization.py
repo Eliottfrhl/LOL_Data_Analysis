@@ -54,8 +54,6 @@ def MatchUpWinrate(MatchUps):
     for champ in champ_js.keys():
         results[champ_js[champ]["name"]] = champs
 
-    MatchUps=pv.MatchUp(API,Player)
-
     for MatchUp in MatchUps:
         print(MatchUp["p1"]["champion"])
         if MatchUp["win"]==True:
@@ -104,7 +102,7 @@ def SoloKill(Game,Player):
     }
     return dic
 
-def StatsMoy(API, Player, count=20):
+def StatsMoy(API, Player, count=20,gameMode='ranked'):
     stats ={
        "kill":0,
        "assist" :0,
@@ -112,7 +110,7 @@ def StatsMoy(API, Player, count=20):
        "solokill":0,
        "solokilled":0,
     }
-    matchList = Player.get_match_list(gameMode='ranked',count=count)
+    matchList = Player.get_match_list(gameMode,count=count)
     for ID in matchList:
         Game = Match(API,ID)
         idx = next((index for (index, d) in enumerate(Game.match_data['info']['participants']) if d["summonerName"] == Player.summoner_name), None)

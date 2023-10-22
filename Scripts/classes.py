@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 from matplotlib import image
 import datetime
 import json
+from time import sleep
 
 with open('config.json') as f: config = load(f) 
 riot_api_key = config['Riot_api_key']
@@ -60,7 +61,16 @@ class Summoner:
             self.summoner_name = summoner_name
 
     def get_match_list(self,start=0,count=20,gameMode=None):
-        match_list = self.api.get_match_list_by_puuid(self.puuid,start,count,gameMode)
+        match_list = []
+        while count > 100:
+            try:
+                match_list += self.api.get_match_list_by_puuid(self.puuid,start,100,gameMode)
+                start+=100
+                count-=100
+            except:
+                print("Too many requests for now, trying again in 1s.")
+                sleep(1)
+        match_list += self.api.get_match_list_by_puuid(self.puuid,start,count,gameMode)
         return match_list
     
     def get_kda(self,start=0,count=20):
