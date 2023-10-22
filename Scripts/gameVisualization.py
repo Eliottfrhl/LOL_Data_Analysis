@@ -11,3 +11,13 @@ def HeatMap(kills):
     plt.imshow(data)
     plt.show() 
     
+def golddiffmin(Match):
+    matchtimeline = Match.match_timeline
+    out = {}
+    for frame in range(len(matchtimeline['info']['frames'])):
+        out["f"+str(frame)] = {}
+        for participant in matchtimeline['info']['frames'][frame]['participantFrames'].keys():
+            out["f"+str(frame)]["p"+str(participant)] = {}
+            totalgold = matchtimeline['info']['frames'][frame]['participantFrames'][participant]['totalGold']
+            out["f"+str(frame)]["p"+str(participant)]["totalgold"] = totalgold
+    return out

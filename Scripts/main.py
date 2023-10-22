@@ -10,10 +10,10 @@ API = RiotAPI(key)
 
 Player = Summoner(API, summoner_name="Tourtipouss")
 
-print("Retrieving last MatchUps")
-mu1 = pv.LastMatchUps(API,Player,count=50)
-print(mu1)
-print("Establishing all MatchUps winrate")
-mu2 = pv.MatchUpWinrate(mu1)
+Matchlist = Player.get_match_list(gameMode='ranked')
 
-print(pv.BestMatchUps(mu2,"Kaisa"))
+Lastgame = Match(API,Matchlist[0])
+
+output = gv.golddiffmin(Lastgame)
+
+print(output)
