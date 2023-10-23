@@ -121,7 +121,13 @@ class Match:
         return players
     
     def get_player_performance(self, player):
-        index = next((index for (index, d) in enumerate(self.match_data['info']['participants']) if d["summonerName"] == player.summoner_name), None)
+        while True:
+            try:
+                index = next((index for (index, d) in enumerate(self.match_data['info']['participants']) if d["summonerName"] == player.summoner_name), None)
+            except KeyError:
+                print("Too many requests for now, trying again in 1s.")
+                sleep(1)
+                break
         return self.match_data['info']['participants'][index]
     
     def get_kills(self):
