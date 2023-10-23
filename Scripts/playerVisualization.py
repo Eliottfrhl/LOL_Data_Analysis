@@ -1,4 +1,4 @@
-from classes import RiotAPI, Summoner, Match
+from Scripts.classes import RiotAPI, Summoner, Match
 from json import load, dump
 from copy import deepcopy
 import progressbar

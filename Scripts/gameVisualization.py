@@ -1,7 +1,6 @@
 import matplotlib.pyplot as plt
 from matplotlib import image
 
-
 def HeatMap(kills):
     data = image.imread('static/map.png') 
     for kill in kills:

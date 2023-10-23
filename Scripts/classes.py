@@ -7,9 +7,6 @@ import datetime
 import json
 from time import sleep
 
-with open('config.json') as f: config = load(f) 
-riot_api_key = config['Riot_api_key']
-
 class RiotAPI:
     # Classe qui permet de faire les requêtes à l'API Riot, est nécessaire pour les autres classes par la suite
     def __init__(self,riot_api_key):
