@@ -35,14 +35,28 @@ class RiotAPI:
         return response.json()
     
     def get_match_by_id(self,match_id):
-        url = 'https://europe.api.riotgames.com/lol/match/v5/matches/' + match_id + '?api_key=' + self.riot_api_key
-        response = requests.get(url)
-        return response.json()
+        while True :
+            url = 'https://europe.api.riotgames.com/lol/match/v5/matches/' + match_id + '?api_key=' + self.riot_api_key
+            response = requests.get(url)
+            output = response.json()
+            if output=={'status': {'message': 'Rate limit exceeded', 'status_code': 429}}:
+                print("Too many requests for now, trying again in 2min.")
+                sleep(120)
+                continue
+            else : 
+                return output
     
     def get_match_timeline_by_id(self, match_id):
-        url = 'https://europe.api.riotgames.com/lol/match/v5/matches/' + match_id + '/timeline/?api_key=' + self.riot_api_key
-        response = requests.get(url)
-        return response.json()
+        while True :
+            url = 'https://europe.api.riotgames.com/lol/match/v5/matches/' + match_id + '/timeline/?api_key=' + self.riot_api_key
+            response = requests.get(url)
+            output = response.json()
+            if output=={'status': {'message': 'Rate limit exceeded', 'status_code': 429}}:
+                print("Too many requests for now, trying again in 2min.")
+                sleep(120)
+                continue
+            else : 
+                return output
 
 class Summoner:
     # Classe qui représente un joueur. Elle permet d'accéder à la liste de ses matchs mais également à certaines statistiques globales
@@ -102,7 +116,8 @@ class Match:
         self.api = api
         self.match_id = match_id
         self.match_data = self.api.get_match_by_id(self.match_id)
-        self.match_timeline = self.api.get_match_timeline_by_id(self.match_id)
+        self.match_timeline = self.api.get_match_timeline_by_id(self.match_id) 
+        
         
     def get_players(self):
         participants = self.match_data['metadata']['participants']
@@ -121,13 +136,7 @@ class Match:
         return players
     
     def get_player_performance(self, player):
-        while True:
-            try:
-                index = next((index for (index, d) in enumerate(self.match_data['info']['participants']) if d["summonerName"] == player.summoner_name), None)
-            except KeyError:
-                print("Too many requests for now, trying again in 1s.")
-                sleep(1)
-                break
+        index = next((index for (index, d) in enumerate(self.match_data['info']['participants']) if d["summonerName"] == player.summoner_name), None)
         return self.match_data['info']['participants'][index]
     
     def get_kills(self):

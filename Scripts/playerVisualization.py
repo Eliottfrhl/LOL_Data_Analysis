@@ -51,7 +51,7 @@ def MatchUpWinrate(MatchUps):
     champs = {}
 
     for champ in champ_js["data"].keys():
-        champs[champ_js["data"][champ]["id"]] = {
+        champs[champ_js["data"][champ]["id"].lower()] = {
             "win_count":0,
             "loss_count":0,
         }
@@ -59,13 +59,13 @@ def MatchUpWinrate(MatchUps):
     results = {}
 
     for champ in champ_js["data"].keys():
-        results[champ_js["data"][champ]["id"]] = deepcopy(champs)
+        results[champ_js["data"][champ]["id"].lower()] = deepcopy(champs)
 
     for MatchUp in MatchUps:
         if MatchUp["win"]==True:
-            results[MatchUp["p1"]["champion"]][MatchUp["p2"]["champion"]]["win_count"]+=1
+            results[MatchUp["p1"]["champion"].lower()][MatchUp["p2"]["champion"].lower()]["win_count"]+=1
         else:
-            results[MatchUp["p1"]["champion"]][MatchUp["p2"]["champion"]]["loss_count"]+=1
+            results[MatchUp["p1"]["champion"].lower()][MatchUp["p2"]["champion"].lower()]["loss_count"]+=1
 
     for key1 in results.keys():
         for key2 in results[key1].keys():
