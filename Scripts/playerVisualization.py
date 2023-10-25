@@ -15,32 +15,33 @@ def LastMatchUps(API,Player,count=20,roleAdverse="SAME"):
     
     for match_id in lst:
         Game = Match(API,match_id)
-        MatchUp = {}
-        playerPerformance = Game.get_player_performance(Player)
-        MatchUp["win"] = playerPerformance["win"]
-        if roleAdverse=="SAME":role = playerPerformance["teamPosition"]
-        for participant in Game.match_data["info"]["participants"]:
-            if participant["summonerName"] == Player.summoner_name:
-                MatchUp["p1"]={
-                    "summoner": participant["summonerName"],
-                    "champion":participant["championName"],
-                    "kills":participant["kills"],
-                    "deaths":participant["deaths"],
-                    "assists":participant["assists"],
-                    "role":role,
-                }
-            elif participant["teamPosition"] == role:
-                MatchUp["p2"]={
-                    "summoner": participant["summonerName"],
-                    "champion":participant["championName"],
-                    "kills":participant["kills"],
-                    "deaths":participant["deaths"],
-                    "assists":participant["assists"],
-                    "role":role,
-                }
-        MatchUps.append(MatchUp)
-        barupdate_count+=1
-        bar.update((barupdate_count/count)*100)
+        if Game.match_data["info"]["gameDuration"]>600:
+            MatchUp = {}
+            playerPerformance = Game.get_player_performance(Player)
+            MatchUp["win"] = playerPerformance["win"]
+            if roleAdverse=="SAME":role = playerPerformance["teamPosition"]
+            for participant in Game.match_data["info"]["participants"]:
+                if participant["summonerName"] == Player.summoner_name:
+                    MatchUp["p1"]={
+                        "summoner": participant["summonerName"],
+                        "champion":participant["championName"],
+                        "kills":participant["kills"],
+                        "deaths":participant["deaths"],
+                        "assists":participant["assists"],
+                        "role":role,
+                    }
+                elif participant["teamPosition"] == role:
+                    MatchUp["p2"]={
+                        "summoner": participant["summonerName"],
+                        "champion":participant["championName"],
+                        "kills":participant["kills"],
+                        "deaths":participant["deaths"],
+                        "assists":participant["assists"],
+                        "role":role,
+                    }
+            MatchUps.append(MatchUp)
+            barupdate_count+=1
+            bar.update((barupdate_count/count)*100)
     return(MatchUps)
 
 def MatchUpWinrate(MatchUps):
@@ -74,6 +75,7 @@ def MatchUpWinrate(MatchUps):
     return results
 
 def BestMatchUps(MatchUpsWinrate, champAdverse):
+    champAdverse = champAdverse.lower()
     result = []
     for myChamp in MatchUpsWinrate.keys():
         if "winrate" in MatchUpsWinrate[myChamp][champAdverse].keys():
