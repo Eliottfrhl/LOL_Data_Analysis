@@ -33,3 +33,5 @@ Quand tu as fini quelque chose,
 - Add dans VSCode ou `git add {nom du fichier}`
 - `git commit -m "Message"`
 - `git push origin main`
+
+Merci
