@@ -49,3 +49,9 @@ Quand tu as fini quelque chose,
 - Add dans VSCode ou `git add {nom du fichier}`
 - `git commit -m "Message"`
 - `git push origin main`
+
+# Ressources
+
+- [Medium de Xenesis](https://medium.com/@benjamin.castet)
+- [Games Of Legends, base de données de games compétitives](https://gol.gg/esports/home/)
+- [Cassiopeia, Python Framework for LoL](https://github.com/meraki-analytics/cassiopeia)
