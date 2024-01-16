@@ -55,3 +55,4 @@ Quand tu as fini quelque chose,
 - [Medium de Xenesis](https://medium.com/@benjamin.castet)
 - [Games Of Legends, base de données de games compétitives](https://gol.gg/esports/home/)
 - [Cassiopeia, Python Framework for LoL](https://github.com/meraki-analytics/cassiopeia)
+- [Page de ressources](https://github.com/FloPrm/lol_analytics)
