@@ -2,11 +2,27 @@
 
 Ce projet a pour objectif de nous familiariser avec l'API Riot et plus largement l'analyse et le traitement de données.
 
+## Utilisation
+
+Le fichier demo.ipynb regroupe quelques fonctionnalités développées et les présente de manière plus didactique que les fichiers Python. N'hésitez pas à y faire un tour pour vous familiariser avec notre système.
+
 ## Structure
 
 ### class.py
 
 Regroupe les classes Riot API, Summoner et Match.
+
+### getData.py
+
+Récupère les données des champions pour les stocker localement.
+
+### playerVisualization.py
+
+Ensemble de fonctions retournant des données et des statistiques concernant un joueur.
+
+### gameVisualization.py
+
+Ensemble de fonctions retournant des données et des statistiques concernant un match.
 
 ## Classes
 
@@ -33,9 +49,3 @@ Quand tu as fini quelque chose,
 - Add dans VSCode ou `git add {nom du fichier}`
 - `git commit -m "Message"`
 - `git push origin main`
-
-# Ressources
-
-- [Medium de Xenesis](https://medium.com/@benjamin.castet)
-- [Games Of Legends, base de données de games compétitives](https://gol.gg/esports/home/)
-- [Cassiopeia, Python Framework for LoL](https://github.com/meraki-analytics/cassiopeia)
