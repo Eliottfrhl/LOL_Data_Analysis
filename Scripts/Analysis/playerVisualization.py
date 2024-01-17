@@ -1,4 +1,4 @@
-from Scripts.classes import RiotAPI, Summoner, Match
+from Scripts.Analysis.classes import RiotAPI, Summoner, Match
 from json import load, dump
 from copy import deepcopy
 import progressbar
@@ -46,7 +46,7 @@ def LastMatchUps(API,Player,count=20,roleAdverse="SAME"):
 
 def MatchUpWinrate(MatchUps):
     # Retourne un dictionnaire de <nombre de champions> dictionnaires, chacun de taille <nombre de champions> indiquant les statistiques du matchup entre le champion de p1 et les autres
-    with open("data/champion.json",encoding="utf-8") as f:
+    with open("Data/GameData/champions.json",encoding="utf-8") as f:
         champ_js = load(f)
 
     champs = {}

@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 from matplotlib import image
 
 def HeatMap(kills):
-    data = image.imread('static/map.png') 
+    data = image.imread('Data/StaticData/map.png') 
     for kill in kills:
         if kill['killer']>=6: color ="blue"
         else: color = "red"
