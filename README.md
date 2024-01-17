@@ -4,7 +4,7 @@ Ce projet a pour objectif de nous familiariser avec l'API Riot et plus largement
 
 ## Utilisation
 
-Le fichier demo.ipynb regroupe quelques fonctionnalités développées et les présente de manière plus didactique que les fichiers Python. N'hésitez pas à y faire un tour pour vous familiariser avec notre système.
+Le fichier PersonnalSoloQ.ipynb regroupe quelques fonctionnalités développées et les présente de manière plus didactique que les fichiers Python. N'hésitez pas à y faire un tour pour vous familiariser avec notre système.
 
 ## Structure
 
@@ -57,4 +57,5 @@ Quand tu as fini quelque chose,
 - [Games Of Legends, base de données de games compétitives](https://gol.gg/esports/home/)
 - [Cassiopeia, Python Framework for LoL](https://github.com/meraki-analytics/cassiopeia)
 - [Page de ressources](https://github.com/FloPrm/lol_analytics)
+- [Leaguepedia API Documentation + Exemples](https://lol.fandom.com/wiki/Help:Leaguepedia_API)
 
