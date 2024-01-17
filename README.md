@@ -52,7 +52,9 @@ Quand tu as fini quelque chose,
 
 # Ressources
 
+- [Présentation Xenesis KC](https://docs.google.com/presentation/d/1QJ1j6equyFwtu5QiQ89mr3pzyWe6KlVPDf3v8ZLFNAA/edit#slide=id.g2ac048e641f_0_413)
 - [Medium de Xenesis](https://medium.com/@benjamin.castet)
 - [Games Of Legends, base de données de games compétitives](https://gol.gg/esports/home/)
 - [Cassiopeia, Python Framework for LoL](https://github.com/meraki-analytics/cassiopeia)
 - [Page de ressources](https://github.com/FloPrm/lol_analytics)
+
