@@ -41,6 +41,14 @@ Permet de récupérer les informations d'un match.
 # Collaboration
 
 ### En début de session de travail
+Pour setup git
+- `git config --global user.name "Prenom Nom"`
+- `git config --global user.email "email@example.com"`
+- `git init`
+- `git remote add origin URL`
+- `git checkout main`
+- `git pull origin main`
+
 - `git pull origin main`
 - `pip install -r requirements.txt`
 
