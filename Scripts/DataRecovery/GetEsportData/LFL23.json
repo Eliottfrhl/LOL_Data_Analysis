@@ -1,0 +1,5852 @@
+{
+    "47480": {
+        "MatchURL": "https://gol.gg/game/stats/47480/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "39:29",
+        "Solary": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Sion",
+                    "Player": "MeLoNiK",
+                    "KDA": "2/4/14"
+                },
+                "Jungle": {
+                    "Champion": "Lee Sin",
+                    "Player": "Shlatan",
+                    "KDA": "3/8/9"
+                },
+                "Mid": {
+                    "Champion": "LeBlanc",
+                    "Player": "Peng",
+                    "KDA": "7/2/6"
+                },
+                "ADC": {
+                    "Champion": "Sivir",
+                    "Player": "TakeSet",
+                    "KDA": "10/4/9"
+                },
+                "Support": {
+                    "Champion": "Ashe",
+                    "Player": "Steeelback",
+                    "KDA": "1/2/18"
+                }
+            }
+        },
+        "BKR": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Chogath",
+                    "Player": "Howling",
+                    "KDA": "2/4/9"
+                },
+                "Jungle": {
+                    "Champion": "Wukong",
+                    "Player": "Pridestalkr",
+                    "KDA": "3/5/10"
+                },
+                "Mid": {
+                    "Champion": "Ahri",
+                    "Player": "Czekolad",
+                    "KDA": "6/5/11"
+                },
+                "ADC": {
+                    "Champion": "Aphelios",
+                    "Player": "Trigger",
+                    "KDA": "9/5/6"
+                },
+                "Support": {
+                    "Champion": "Rakan",
+                    "Player": "Veignorem",
+                    "KDA": "0/4/17"
+                }
+            }
+        }
+    },
+    "47479": {
+        "MatchURL": "https://gol.gg/game/stats/47479/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "32:57",
+        "Team GO": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Sion",
+                    "Player": "Ragner",
+                    "KDA": "2/2/7"
+                },
+                "Jungle": {
+                    "Champion": "Vi",
+                    "Player": "Lyncas",
+                    "KDA": "4/0/10"
+                },
+                "Mid": {
+                    "Champion": "Orianna",
+                    "Player": "Toucouille",
+                    "KDA": "7/0/11"
+                },
+                "ADC": {
+                    "Champion": "Xayah",
+                    "Player": "Jezu",
+                    "KDA": "8/2/7"
+                },
+                "Support": {
+                    "Champion": "Renata Glasc",
+                    "Player": "kamilius",
+                    "KDA": "0/2/14"
+                }
+            }
+        },
+        "KC": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Lee Sin",
+                    "Player": "Cabochard",
+                    "KDA": "0/5/2"
+                },
+                "Jungle": {
+                    "Champion": "Gragas",
+                    "Player": "Skeanz",
+                    "KDA": "3/4/2"
+                },
+                "Mid": {
+                    "Champion": "Twisted Fate",
+                    "Player": "Saken",
+                    "KDA": "3/2/3"
+                },
+                "ADC": {
+                    "Champion": "Aphelios",
+                    "Player": "Kaori",
+                    "KDA": "0/6/5"
+                },
+                "Support": {
+                    "Champion": "Tahm Kench",
+                    "Player": "whiteinn",
+                    "KDA": "0/4/5"
+                }
+            }
+        }
+    },
+    "47478": {
+        "MatchURL": "https://gol.gg/game/stats/47478/page-game/",
+        "Score": "0 - 1",
+        "GameTime": "31:23",
+        "IZI Dream": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "KSante",
+                    "Player": "Badlulu",
+                    "KDA": "1/2/0"
+                },
+                "Jungle": {
+                    "Champion": "Lee Sin",
+                    "Player": "Eckas",
+                    "KDA": "0/4/3"
+                },
+                "Mid": {
+                    "Champion": "Annie",
+                    "Player": "twohoyrz",
+                    "KDA": "2/2/1"
+                },
+                "ADC": {
+                    "Champion": "Aphelios",
+                    "Player": "Pec0",
+                    "KDA": "1/3/3"
+                },
+                "Support": {
+                    "Champion": "Thresh",
+                    "Player": "Raxxo",
+                    "KDA": "0/3/4"
+                }
+            }
+        },
+        "GameWard": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Renekton",
+                    "Player": "Kio",
+                    "KDA": "4/0/4"
+                },
+                "Jungle": {
+                    "Champion": "Sejuani",
+                    "Player": "Djoko",
+                    "KDA": "1/0/10"
+                },
+                "Mid": {
+                    "Champion": "Aurelion Sol",
+                    "Player": "Milica",
+                    "KDA": "2/2/8"
+                },
+                "ADC": {
+                    "Champion": "Xayah",
+                    "Player": "Bung",
+                    "KDA": "7/0/6"
+                },
+                "Support": {
+                    "Champion": "Nautilus",
+                    "Player": "Twiizt",
+                    "KDA": "0/2/8"
+                }
+            }
+        }
+    },
+    "47477": {
+        "MatchURL": "https://gol.gg/game/stats/47477/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "26:21",
+        "Aegis": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Sion",
+                    "Player": "Lot",
+                    "KDA": "2/1/5"
+                },
+                "Jungle": {
+                    "Champion": "Jarvan IV",
+                    "Player": "SkewMond",
+                    "KDA": "5/1/7"
+                },
+                "Mid": {
+                    "Champion": "Veigar",
+                    "Player": "Eika",
+                    "KDA": "4/2/8"
+                },
+                "ADC": {
+                    "Champion": "Xayah",
+                    "Player": "Shiganari",
+                    "KDA": "3/0/6"
+                },
+                "Support": {
+                    "Champion": "Annie",
+                    "Player": "Hantera",
+                    "KDA": "1/1/11"
+                }
+            }
+        },
+        "VITB": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Gwen",
+                    "Player": "PatkicaA",
+                    "KDA": "2/1/2"
+                },
+                "Jungle": {
+                    "Champion": "Wukong",
+                    "Player": "Daglas",
+                    "KDA": "0/6/3"
+                },
+                "Mid": {
+                    "Champion": "Ahri",
+                    "Player": "Czajek",
+                    "KDA": "2/3/3"
+                },
+                "ADC": {
+                    "Champion": "Kalista",
+                    "Player": "Innaxe",
+                    "KDA": "1/4/2"
+                },
+                "Support": {
+                    "Champion": "Rakan",
+                    "Player": "jactroll",
+                    "KDA": "0/1/4"
+                }
+            }
+        }
+    },
+    "47476": {
+        "MatchURL": "https://gol.gg/game/stats/47476/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "26:18",
+        "LDLC OL": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Sion",
+                    "Player": "Kryze",
+                    "KDA": "1/2/7"
+                },
+                "Jungle": {
+                    "Champion": "Wukong",
+                    "Player": "White",
+                    "KDA": "7/2/10"
+                },
+                "Mid": {
+                    "Champion": "LeBlanc",
+                    "Player": "Backlund",
+                    "KDA": "6/1/11"
+                },
+                "ADC": {
+                    "Champion": "Xayah",
+                    "Player": "Jeskla",
+                    "KDA": "5/1/11"
+                },
+                "Support": {
+                    "Champion": "Rakan",
+                    "Player": "Zoelys",
+                    "KDA": "1/2/17"
+                }
+            }
+        },
+        "BDSA": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Sejuani",
+                    "Player": "Agresivoo",
+                    "KDA": "0/2/1"
+                },
+                "Jungle": {
+                    "Champion": "Xin Zhao",
+                    "Player": "Maxi",
+                    "KDA": "3/5/4"
+                },
+                "Mid": {
+                    "Champion": "Lissandra",
+                    "Player": "Reeker",
+                    "KDA": "1/4/4"
+                },
+                "ADC": {
+                    "Champion": "Varus",
+                    "Player": "xmatty",
+                    "KDA": "3/5/2"
+                },
+                "Support": {
+                    "Champion": "Lulu",
+                    "Player": "Erdote",
+                    "KDA": "1/4/6"
+                }
+            }
+        }
+    },
+    "47475": {
+        "MatchURL": "https://gol.gg/game/stats/47475/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "27:53",
+        "Team GO": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "KSante",
+                    "Player": "MeLoNiK",
+                    "KDA": "4/0/5"
+                },
+                "Jungle": {
+                    "Champion": "Vi",
+                    "Player": "Shlatan",
+                    "KDA": "4/1/5"
+                },
+                "Mid": {
+                    "Champion": "Ahri",
+                    "Player": "Peng",
+                    "KDA": "4/0/7"
+                },
+                "ADC": {
+                    "Champion": "Aphelios",
+                    "Player": "TakeSet",
+                    "KDA": "1/1/5"
+                },
+                "Support": {
+                    "Champion": "Heimerdinger",
+                    "Player": "Steeelback",
+                    "KDA": "1/1/2"
+                }
+            }
+        },
+        "Solary": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Gragas",
+                    "Player": "Ragner",
+                    "KDA": "0/3/2"
+                },
+                "Jungle": {
+                    "Champion": "Wukong",
+                    "Player": "Lyncas",
+                    "KDA": "0/3/0"
+                },
+                "Mid": {
+                    "Champion": "Lissandra",
+                    "Player": "Toucouille",
+                    "KDA": "0/5/0"
+                },
+                "ADC": {
+                    "Champion": "Xayah",
+                    "Player": "Jezu",
+                    "KDA": "2/2/1"
+                },
+                "Support": {
+                    "Champion": "Nautilus",
+                    "Player": "kamilius",
+                    "KDA": "1/1/1"
+                }
+            }
+        }
+    },
+    "47474": {
+        "MatchURL": "https://gol.gg/game/stats/47474/page-game/",
+        "Score": "0 - 1",
+        "GameTime": "25:33",
+        "IZI Dream": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Sejuani",
+                    "Player": "Kio",
+                    "KDA": "1/3/8"
+                },
+                "Jungle": {
+                    "Champion": "Viego",
+                    "Player": "Djoko",
+                    "KDA": "8/4/3"
+                },
+                "Mid": {
+                    "Champion": "Sion",
+                    "Player": "Milica",
+                    "KDA": "1/5/7"
+                },
+                "ADC": {
+                    "Champion": "Sivir",
+                    "Player": "Bung",
+                    "KDA": "2/3/8"
+                },
+                "Support": {
+                    "Champion": "Rakan",
+                    "Player": "Twiizt",
+                    "KDA": "0/6/9"
+                }
+            }
+        },
+        "BKR": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "KSante",
+                    "Player": "Howling",
+                    "KDA": "1/4/10"
+                },
+                "Jungle": {
+                    "Champion": "Vi",
+                    "Player": "Pridestalkr",
+                    "KDA": "3/4/14"
+                },
+                "Mid": {
+                    "Champion": "Viktor",
+                    "Player": "Czekolad",
+                    "KDA": "6/0/13"
+                },
+                "ADC": {
+                    "Champion": "Varus",
+                    "Player": "Trigger",
+                    "KDA": "7/2/11"
+                },
+                "Support": {
+                    "Champion": "Annie",
+                    "Player": "Veignorem",
+                    "KDA": "4/2/12"
+                }
+            }
+        }
+    },
+    "47473": {
+        "MatchURL": "https://gol.gg/game/stats/47473/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "31:33",
+        "KC": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Gragas",
+                    "Player": "Lot",
+                    "KDA": "2/3/2"
+                },
+                "Jungle": {
+                    "Champion": "Vi",
+                    "Player": "SkewMond",
+                    "KDA": "1/0/15"
+                },
+                "Mid": {
+                    "Champion": "Orianna",
+                    "Player": "Eika",
+                    "KDA": "5/1/8"
+                },
+                "ADC": {
+                    "Champion": "Xayah",
+                    "Player": "Shiganari",
+                    "KDA": "8/1/6"
+                },
+                "Support": {
+                    "Champion": "Rakan",
+                    "Player": "Hantera",
+                    "KDA": "5/0/11"
+                }
+            }
+        },
+        "Aegis": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Renekton",
+                    "Player": "Cabochard",
+                    "KDA": "1/6/3"
+                },
+                "Jungle": {
+                    "Champion": "Sejuani",
+                    "Player": "Skeanz",
+                    "KDA": "1/4/3"
+                },
+                "Mid": {
+                    "Champion": "Aurelion Sol",
+                    "Player": "Saken",
+                    "KDA": "3/2/1"
+                },
+                "ADC": {
+                    "Champion": "Jhin",
+                    "Player": "Kaori",
+                    "KDA": "0/5/3"
+                },
+                "Support": {
+                    "Champion": "Heimerdinger",
+                    "Player": "whiteinn",
+                    "KDA": "0/4/4"
+                }
+            }
+        }
+    },
+    "47472": {
+        "MatchURL": "https://gol.gg/game/stats/47472/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "31:49",
+        "GameWard": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "KSante",
+                    "Player": "Badlulu",
+                    "KDA": "2/1/6"
+                },
+                "Jungle": {
+                    "Champion": "Lee Sin",
+                    "Player": "Eckas",
+                    "KDA": "3/2/5"
+                },
+                "Mid": {
+                    "Champion": "Syndra",
+                    "Player": "twohoyrz",
+                    "KDA": "9/1/2"
+                },
+                "ADC": {
+                    "Champion": "Aphelios",
+                    "Player": "Pec0",
+                    "KDA": "2/1/6"
+                },
+                "Support": {
+                    "Champion": "Thresh",
+                    "Player": "Raxxo",
+                    "KDA": "1/4/8"
+                }
+            }
+        },
+        "BDSA": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Jax",
+                    "Player": "Agresivoo",
+                    "KDA": "4/3/1"
+                },
+                "Jungle": {
+                    "Champion": "Viego",
+                    "Player": "Maxi",
+                    "KDA": "3/3/4"
+                },
+                "Mid": {
+                    "Champion": "Viktor",
+                    "Player": "Reeker",
+                    "KDA": "1/3/6"
+                },
+                "ADC": {
+                    "Champion": "Xayah",
+                    "Player": "xmatty",
+                    "KDA": "1/4/6"
+                },
+                "Support": {
+                    "Champion": "Heimerdinger",
+                    "Player": "Erdote",
+                    "KDA": "0/4/7"
+                }
+            }
+        }
+    },
+    "47471": {
+        "MatchURL": "https://gol.gg/game/stats/47471/page-game/",
+        "Score": "0 - 1",
+        "GameTime": "28:04",
+        "VITB": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Sion",
+                    "Player": "PatkicaA",
+                    "KDA": "2/2/2"
+                },
+                "Jungle": {
+                    "Champion": "Vi",
+                    "Player": "Daglas",
+                    "KDA": "0/2/3"
+                },
+                "Mid": {
+                    "Champion": "Aurelion Sol",
+                    "Player": "Czajek",
+                    "KDA": "1/3/2"
+                },
+                "ADC": {
+                    "Champion": "Aphelios",
+                    "Player": "Innaxe",
+                    "KDA": "1/5/3"
+                },
+                "Support": {
+                    "Champion": "Alistar",
+                    "Player": "jactroll",
+                    "KDA": "0/2/3"
+                }
+            }
+        },
+        "LDLC OL": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Gragas",
+                    "Player": "Kryze",
+                    "KDA": "2/0/9"
+                },
+                "Jungle": {
+                    "Champion": "Wukong",
+                    "Player": "White",
+                    "KDA": "5/2/3"
+                },
+                "Mid": {
+                    "Champion": "Yone",
+                    "Player": "Backlund",
+                    "KDA": "4/1/3"
+                },
+                "ADC": {
+                    "Champion": "Zeri",
+                    "Player": "Jeskla",
+                    "KDA": "3/0/7"
+                },
+                "Support": {
+                    "Champion": "Rakan",
+                    "Player": "Zoelys",
+                    "KDA": "0/1/13"
+                }
+            }
+        }
+    },
+    "47146": {
+        "MatchURL": "https://gol.gg/game/stats/47146/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "32:13",
+        "Team GO": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Sion",
+                    "Player": "Ragner",
+                    "KDA": "2/2/8"
+                },
+                "Jungle": {
+                    "Champion": "Vi",
+                    "Player": "Lyncas",
+                    "KDA": "2/3/9"
+                },
+                "Mid": {
+                    "Champion": "LeBlanc",
+                    "Player": "Toucouille",
+                    "KDA": "5/1/5"
+                },
+                "ADC": {
+                    "Champion": "Xayah",
+                    "Player": "Jezu",
+                    "KDA": "6/0/5"
+                },
+                "Support": {
+                    "Champion": "Rakan",
+                    "Player": "kamilius",
+                    "KDA": "0/2/11"
+                }
+            }
+        },
+        "IZI Dream": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Sejuani",
+                    "Player": "Kio",
+                    "KDA": "0/3/8"
+                },
+                "Jungle": {
+                    "Champion": "Wukong",
+                    "Player": "Djoko",
+                    "KDA": "1/4/7"
+                },
+                "Mid": {
+                    "Champion": "Syndra",
+                    "Player": "Milica",
+                    "KDA": "3/2/5"
+                },
+                "ADC": {
+                    "Champion": "Aphelios",
+                    "Player": "Bung",
+                    "KDA": "4/3/1"
+                },
+                "Support": {
+                    "Champion": "Leona",
+                    "Player": "Twiizt",
+                    "KDA": "0/3/8"
+                }
+            }
+        }
+    },
+    "47145": {
+        "MatchURL": "https://gol.gg/game/stats/47145/page-game/",
+        "Score": "0 - 1",
+        "GameTime": "31:41",
+        "Aegis": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Gnar",
+                    "Player": "MeLoNiK",
+                    "KDA": "0/2/0"
+                },
+                "Jungle": {
+                    "Champion": "Lee Sin",
+                    "Player": "Shlatan",
+                    "KDA": "0/5/0"
+                },
+                "Mid": {
+                    "Champion": "Syndra",
+                    "Player": "Peng",
+                    "KDA": "0/2/0"
+                },
+                "ADC": {
+                    "Champion": "Xayah",
+                    "Player": "TakeSet",
+                    "KDA": "0/2/0"
+                },
+                "Support": {
+                    "Champion": "Leona",
+                    "Player": "Steeelback",
+                    "KDA": "0/3/0"
+                }
+            }
+        },
+        "Solary": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Gwen",
+                    "Player": "Lot",
+                    "KDA": "3/0/5"
+                },
+                "Jungle": {
+                    "Champion": "Wukong",
+                    "Player": "SkewMond",
+                    "KDA": "4/0/5"
+                },
+                "Mid": {
+                    "Champion": "Viktor",
+                    "Player": "Eika",
+                    "KDA": "4/0/2"
+                },
+                "ADC": {
+                    "Champion": "Sivir",
+                    "Player": "Shiganari",
+                    "KDA": "3/0/5"
+                },
+                "Support": {
+                    "Champion": "Rakan",
+                    "Player": "Hantera",
+                    "KDA": "0/0/11"
+                }
+            }
+        }
+    },
+    "47144": {
+        "MatchURL": "https://gol.gg/game/stats/47144/page-game/",
+        "Score": "0 - 1",
+        "GameTime": "33:19",
+        "BKR": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Sion",
+                    "Player": "Agresivoo",
+                    "KDA": "0/6/6"
+                },
+                "Jungle": {
+                    "Champion": "Viego",
+                    "Player": "Maxi",
+                    "KDA": "4/4/4"
+                },
+                "Mid": {
+                    "Champion": "Orianna",
+                    "Player": "Reeker",
+                    "KDA": "1/4/10"
+                },
+                "ADC": {
+                    "Champion": "Zeri",
+                    "Player": "xmatty",
+                    "KDA": "6/4/4"
+                },
+                "Support": {
+                    "Champion": "Annie",
+                    "Player": "Erdote",
+                    "KDA": "1/3/10"
+                }
+            }
+        },
+        "BDSA": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Gnar",
+                    "Player": "Howling",
+                    "KDA": "3/2/7"
+                },
+                "Jungle": {
+                    "Champion": "Sejuani",
+                    "Player": "Pridestalkr",
+                    "KDA": "2/0/13"
+                },
+                "Mid": {
+                    "Champion": "Viktor",
+                    "Player": "Czekolad",
+                    "KDA": "5/1/12"
+                },
+                "ADC": {
+                    "Champion": "Varus",
+                    "Player": "Trigger",
+                    "KDA": "8/4/9"
+                },
+                "Support": {
+                    "Champion": "Nautilus",
+                    "Player": "Veignorem",
+                    "KDA": "2/5/12"
+                }
+            }
+        }
+    },
+    "47143": {
+        "MatchURL": "https://gol.gg/game/stats/47143/page-game/",
+        "Score": "0 - 1",
+        "GameTime": "39:27",
+        "KC": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Sion",
+                    "Player": "PatkicaA",
+                    "KDA": "0/3/8"
+                },
+                "Jungle": {
+                    "Champion": "Vi",
+                    "Player": "Daglas",
+                    "KDA": "5/6/5"
+                },
+                "Mid": {
+                    "Champion": "Orianna",
+                    "Player": "Czajek",
+                    "KDA": "1/3/4"
+                },
+                "ADC": {
+                    "Champion": "Aphelios",
+                    "Player": "Innaxe",
+                    "KDA": "5/3/4"
+                },
+                "Support": {
+                    "Champion": "Leona",
+                    "Player": "jactroll",
+                    "KDA": "1/3/5"
+                }
+            }
+        },
+        "VITB": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Jax",
+                    "Player": "Cabochard",
+                    "KDA": "6/3/4"
+                },
+                "Jungle": {
+                    "Champion": "Sejuani",
+                    "Player": "Skeanz",
+                    "KDA": "2/1/11"
+                },
+                "Mid": {
+                    "Champion": "Viktor",
+                    "Player": "Saken",
+                    "KDA": "1/4/10"
+                },
+                "ADC": {
+                    "Champion": "Caitlyn",
+                    "Player": "Kaori",
+                    "KDA": "6/2/10"
+                },
+                "Support": {
+                    "Champion": "Lux",
+                    "Player": "whiteinn",
+                    "KDA": "3/2/15"
+                }
+            }
+        }
+    },
+    "47142": {
+        "MatchURL": "https://gol.gg/game/stats/47142/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "25:03",
+        "GameWard": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "KSante",
+                    "Player": "Badlulu",
+                    "KDA": "2/0/5"
+                },
+                "Jungle": {
+                    "Champion": "Wukong",
+                    "Player": "Eckas",
+                    "KDA": "4/4/6"
+                },
+                "Mid": {
+                    "Champion": "Annie",
+                    "Player": "twohoyrz",
+                    "KDA": "0/0/10"
+                },
+                "ADC": {
+                    "Champion": "Aphelios",
+                    "Player": "Pec0",
+                    "KDA": "5/1/6"
+                },
+                "Support": {
+                    "Champion": "Nautilus",
+                    "Player": "Raxxo",
+                    "KDA": "1/3/11"
+                }
+            }
+        },
+        "LDLC OL": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Jax",
+                    "Player": "Kryze",
+                    "KDA": "1/2/4"
+                },
+                "Jungle": {
+                    "Champion": "Lee Sin",
+                    "Player": "White",
+                    "KDA": "1/4/3"
+                },
+                "Mid": {
+                    "Champion": "Cassiopeia",
+                    "Player": "Backlund",
+                    "KDA": "3/2/3"
+                },
+                "ADC": {
+                    "Champion": "Caitlyn",
+                    "Player": "Jeskla",
+                    "KDA": "2/1/4"
+                },
+                "Support": {
+                    "Champion": "Thresh",
+                    "Player": "Zoelys",
+                    "KDA": "1/3/5"
+                }
+            }
+        }
+    },
+    "47141": {
+        "MatchURL": "https://gol.gg/game/stats/47141/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "34:11",
+        "IZI Dream": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Sion",
+                    "Player": "Lot",
+                    "KDA": "4/1/14"
+                },
+                "Jungle": {
+                    "Champion": "Wukong",
+                    "Player": "SkewMond",
+                    "KDA": "0/1/14"
+                },
+                "Mid": {
+                    "Champion": "Gragas",
+                    "Player": "Eika",
+                    "KDA": "10/3/12"
+                },
+                "ADC": {
+                    "Champion": "Aphelios",
+                    "Player": "Shiganari",
+                    "KDA": "10/2/9"
+                },
+                "Support": {
+                    "Champion": "Rakan",
+                    "Player": "Hantera",
+                    "KDA": "1/5/22"
+                }
+            }
+        },
+        "Aegis": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Jax",
+                    "Player": "Kio",
+                    "KDA": "2/5/6"
+                },
+                "Jungle": {
+                    "Champion": "Sejuani",
+                    "Player": "Djoko",
+                    "KDA": "2/6/5"
+                },
+                "Mid": {
+                    "Champion": "Syndra",
+                    "Player": "Milica",
+                    "KDA": "7/3/4"
+                },
+                "ADC": {
+                    "Champion": "Xayah",
+                    "Player": "Bung",
+                    "KDA": "0/3/9"
+                },
+                "Support": {
+                    "Champion": "Nautilus",
+                    "Player": "Twiizt",
+                    "KDA": "1/8/6"
+                }
+            }
+        }
+    },
+    "47140": {
+        "MatchURL": "https://gol.gg/game/stats/47140/page-game/",
+        "Score": "0 - 1",
+        "GameTime": "31:47",
+        "Team GO": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Ornn",
+                    "Player": "Ragner",
+                    "KDA": "1/4/5"
+                },
+                "Jungle": {
+                    "Champion": "Gragas",
+                    "Player": "Lyncas",
+                    "KDA": "3/3/4"
+                },
+                "Mid": {
+                    "Champion": "Jayce",
+                    "Player": "Toucouille",
+                    "KDA": "0/3/5"
+                },
+                "ADC": {
+                    "Champion": "Aphelios",
+                    "Player": "Jezu",
+                    "KDA": "3/3/4"
+                },
+                "Support": {
+                    "Champion": "Nautilus",
+                    "Player": "kamilius",
+                    "KDA": "0/8/7"
+                }
+            }
+        },
+        "BDSA": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Sejuani",
+                    "Player": "Agresivoo",
+                    "KDA": "1/1/14"
+                },
+                "Jungle": {
+                    "Champion": "Viego",
+                    "Player": "Maxi",
+                    "KDA": "5/1/8"
+                },
+                "Mid": {
+                    "Champion": "Viktor",
+                    "Player": "Reeker",
+                    "KDA": "8/1/8"
+                },
+                "ADC": {
+                    "Champion": "Xayah",
+                    "Player": "xmatty",
+                    "KDA": "4/4/14"
+                },
+                "Support": {
+                    "Champion": "Ashe",
+                    "Player": "Erdote",
+                    "KDA": "3/0/15"
+                }
+            }
+        }
+    },
+    "47139": {
+        "MatchURL": "https://gol.gg/game/stats/47139/page-game/",
+        "Score": "0 - 1",
+        "GameTime": "30:36",
+        "VITB": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Gnar",
+                    "Player": "MeLoNiK",
+                    "KDA": "0/3/0"
+                },
+                "Jungle": {
+                    "Champion": "Viego",
+                    "Player": "Shlatan",
+                    "KDA": "0/4/2"
+                },
+                "Mid": {
+                    "Champion": "Annie",
+                    "Player": "Peng",
+                    "KDA": "1/0/0"
+                },
+                "ADC": {
+                    "Champion": "Aphelios",
+                    "Player": "TakeSet",
+                    "KDA": "0/4/2"
+                },
+                "Support": {
+                    "Champion": "Thresh",
+                    "Player": "Steeelback",
+                    "KDA": "1/2/1"
+                }
+            }
+        },
+        "Solary": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Malphite",
+                    "Player": "PatkicaA",
+                    "KDA": "1/0/6"
+                },
+                "Jungle": {
+                    "Champion": "Lee Sin",
+                    "Player": "Daglas",
+                    "KDA": "4/0/7"
+                },
+                "Mid": {
+                    "Champion": "Aurelion Sol",
+                    "Player": "Czajek",
+                    "KDA": "5/0/5"
+                },
+                "ADC": {
+                    "Champion": "Xayah",
+                    "Player": "Innaxe",
+                    "KDA": "3/1/8"
+                },
+                "Support": {
+                    "Champion": "Rakan",
+                    "Player": "jactroll",
+                    "KDA": "0/1/11"
+                }
+            }
+        }
+    },
+    "47138": {
+        "MatchURL": "https://gol.gg/game/stats/47138/page-game/",
+        "Score": "0 - 1",
+        "GameTime": "37:06",
+        "GameWard": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "KSante",
+                    "Player": "Badlulu",
+                    "KDA": "3/2/7"
+                },
+                "Jungle": {
+                    "Champion": "Sejuani",
+                    "Player": "Eckas",
+                    "KDA": "2/2/11"
+                },
+                "Mid": {
+                    "Champion": "Orianna",
+                    "Player": "twohoyrz",
+                    "KDA": "7/4/5"
+                },
+                "ADC": {
+                    "Champion": "Aphelios",
+                    "Player": "Pec0",
+                    "KDA": "3/6/9"
+                },
+                "Support": {
+                    "Champion": "Nautilus",
+                    "Player": "Raxxo",
+                    "KDA": "0/6/7"
+                }
+            }
+        },
+        "BKR": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Darius",
+                    "Player": "Howling",
+                    "KDA": "9/4/2"
+                },
+                "Jungle": {
+                    "Champion": "Gragas",
+                    "Player": "Pridestalkr",
+                    "KDA": "1/0/9"
+                },
+                "Mid": {
+                    "Champion": "Jayce",
+                    "Player": "Czekolad",
+                    "KDA": "3/5/12"
+                },
+                "ADC": {
+                    "Champion": "Zeri",
+                    "Player": "Trigger",
+                    "KDA": "7/1/10"
+                },
+                "Support": {
+                    "Champion": "Leona",
+                    "Player": "Veignorem",
+                    "KDA": "0/5/13"
+                }
+            }
+        }
+    },
+    "47137": {
+        "MatchURL": "https://gol.gg/game/stats/47137/page-game/",
+        "Score": "0 - 1",
+        "GameTime": "45:24",
+        "KC": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Jax",
+                    "Player": "Kryze",
+                    "KDA": "1/8/3"
+                },
+                "Jungle": {
+                    "Champion": "Sejuani",
+                    "Player": "White",
+                    "KDA": "1/3/9"
+                },
+                "Mid": {
+                    "Champion": "Yone",
+                    "Player": "Backlund",
+                    "KDA": "5/2/5"
+                },
+                "ADC": {
+                    "Champion": "Aphelios",
+                    "Player": "Jeskla",
+                    "KDA": "4/4/3"
+                },
+                "Support": {
+                    "Champion": "Thresh",
+                    "Player": "Zoelys",
+                    "KDA": "1/3/8"
+                }
+            }
+        },
+        "LDLC OL": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Malphite",
+                    "Player": "Cabochard",
+                    "KDA": "1/2/6"
+                },
+                "Jungle": {
+                    "Champion": "Vi",
+                    "Player": "Skeanz",
+                    "KDA": "2/2/12"
+                },
+                "Mid": {
+                    "Champion": "Viktor",
+                    "Player": "Saken",
+                    "KDA": "6/1/8"
+                },
+                "ADC": {
+                    "Champion": "Xayah",
+                    "Player": "Kaori",
+                    "KDA": "9/3/7"
+                },
+                "Support": {
+                    "Champion": "Rakan",
+                    "Player": "whiteinn",
+                    "KDA": "2/4/14"
+                }
+            }
+        }
+    },
+    "46971": {
+        "MatchURL": "https://gol.gg/game/stats/46971/page-game/",
+        "Score": "0 - 1",
+        "GameTime": "35:34",
+        "VITB": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Olaf",
+                    "Player": "Kio",
+                    "KDA": "1/6/5"
+                },
+                "Jungle": {
+                    "Champion": "Lee Sin",
+                    "Player": "Djoko",
+                    "KDA": "1/1/6"
+                },
+                "Mid": {
+                    "Champion": "Gragas",
+                    "Player": "Milica",
+                    "KDA": "3/2/4"
+                },
+                "ADC": {
+                    "Champion": "Ezreal",
+                    "Player": "Bung",
+                    "KDA": "4/2/2"
+                },
+                "Support": {
+                    "Champion": "Karma",
+                    "Player": "Twiizt",
+                    "KDA": "0/2/9"
+                }
+            }
+        },
+        "IZI Dream": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "KSante",
+                    "Player": "PatkicaA",
+                    "KDA": "2/1/7"
+                },
+                "Jungle": {
+                    "Champion": "Wukong",
+                    "Player": "Daglas",
+                    "KDA": "2/1/9"
+                },
+                "Mid": {
+                    "Champion": "Ahri",
+                    "Player": "Czajek",
+                    "KDA": "2/1/8"
+                },
+                "ADC": {
+                    "Champion": "Xayah",
+                    "Player": "Innaxe",
+                    "KDA": "7/2/3"
+                },
+                "Support": {
+                    "Champion": "Nautilus",
+                    "Player": "jactroll",
+                    "KDA": "0/5/10"
+                }
+            }
+        }
+    },
+    "46970": {
+        "MatchURL": "https://gol.gg/game/stats/46970/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "31:29",
+        "Solary": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Sion",
+                    "Player": "MeLoNiK",
+                    "KDA": "1/0/8"
+                },
+                "Jungle": {
+                    "Champion": "Viego",
+                    "Player": "Shlatan",
+                    "KDA": "4/3/5"
+                },
+                "Mid": {
+                    "Champion": "Annie",
+                    "Player": "Peng",
+                    "KDA": "4/3/11"
+                },
+                "ADC": {
+                    "Champion": "Sivir",
+                    "Player": "TakeSet",
+                    "KDA": "6/0/7"
+                },
+                "Support": {
+                    "Champion": "Ashe",
+                    "Player": "Steeelback",
+                    "KDA": "0/0/13"
+                }
+            }
+        },
+        "KC": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "KSante",
+                    "Player": "Cabochard",
+                    "KDA": "0/1/2"
+                },
+                "Jungle": {
+                    "Champion": "Lee Sin",
+                    "Player": "Skeanz",
+                    "KDA": "1/3/4"
+                },
+                "Mid": {
+                    "Champion": "Ryze",
+                    "Player": "Saken",
+                    "KDA": "3/2/3"
+                },
+                "ADC": {
+                    "Champion": "Xayah",
+                    "Player": "Kaori",
+                    "KDA": "1/3/2"
+                },
+                "Support": {
+                    "Champion": "Leona",
+                    "Player": "whiteinn",
+                    "KDA": "1/6/4"
+                }
+            }
+        }
+    },
+    "46969": {
+        "MatchURL": "https://gol.gg/game/stats/46969/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "49:28",
+        "Team GO": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "KSante",
+                    "Player": "Ragner",
+                    "KDA": "4/1/16"
+                },
+                "Jungle": {
+                    "Champion": "Lee Sin",
+                    "Player": "Lyncas",
+                    "KDA": "0/5/14"
+                },
+                "Mid": {
+                    "Champion": "Annie",
+                    "Player": "Toucouille",
+                    "KDA": "11/4/8"
+                },
+                "ADC": {
+                    "Champion": "Caitlyn",
+                    "Player": "Jezu",
+                    "KDA": "10/3/9"
+                },
+                "Support": {
+                    "Champion": "Lux",
+                    "Player": "kamilius",
+                    "KDA": "0/2/18"
+                }
+            }
+        },
+        "GameWard": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Jax",
+                    "Player": "Badlulu",
+                    "KDA": "1/6/5"
+                },
+                "Jungle": {
+                    "Champion": "Sejuani",
+                    "Player": "Eckas",
+                    "KDA": "2/2/9"
+                },
+                "Mid": {
+                    "Champion": "Viktor",
+                    "Player": "twohoyrz",
+                    "KDA": "2/6/8"
+                },
+                "ADC": {
+                    "Champion": "Xayah",
+                    "Player": "Pec0",
+                    "KDA": "9/4/4"
+                },
+                "Support": {
+                    "Champion": "Nautilus",
+                    "Player": "Raxxo",
+                    "KDA": "1/7/10"
+                }
+            }
+        }
+    },
+    "46968": {
+        "MatchURL": "https://gol.gg/game/stats/46968/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "36:09",
+        "BDSA": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Sion",
+                    "Player": "Lot",
+                    "KDA": "1/3/10"
+                },
+                "Jungle": {
+                    "Champion": "Wukong",
+                    "Player": "SkewMond",
+                    "KDA": "9/0/7"
+                },
+                "Mid": {
+                    "Champion": "Annie",
+                    "Player": "Eika",
+                    "KDA": "2/3/9"
+                },
+                "ADC": {
+                    "Champion": "Sivir",
+                    "Player": "Shiganari",
+                    "KDA": "6/2/7"
+                },
+                "Support": {
+                    "Champion": "Leona",
+                    "Player": "Hantera",
+                    "KDA": "0/3/12"
+                }
+            }
+        },
+        "Aegis": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Yone",
+                    "Player": "Agresivoo",
+                    "KDA": "1/6/3"
+                },
+                "Jungle": {
+                    "Champion": "Graves",
+                    "Player": "Maxi",
+                    "KDA": "4/3/5"
+                },
+                "Mid": {
+                    "Champion": "Gragas",
+                    "Player": "Reeker",
+                    "KDA": "3/4/4"
+                },
+                "ADC": {
+                    "Champion": "Xayah",
+                    "Player": "xmatty",
+                    "KDA": "3/3/2"
+                },
+                "Support": {
+                    "Champion": "Karma",
+                    "Player": "Erdote",
+                    "KDA": "0/2/9"
+                }
+            }
+        }
+    },
+    "46967": {
+        "MatchURL": "https://gol.gg/game/stats/46967/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "29:18",
+        "BKR": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Chogath",
+                    "Player": "Howling",
+                    "KDA": "2/0/8"
+                },
+                "Jungle": {
+                    "Champion": "Vi",
+                    "Player": "Pridestalkr",
+                    "KDA": "5/3/7"
+                },
+                "Mid": {
+                    "Champion": "Azir",
+                    "Player": "Czekolad",
+                    "KDA": "8/2/5"
+                },
+                "ADC": {
+                    "Champion": "Sivir",
+                    "Player": "Trigger",
+                    "KDA": "4/1/14"
+                },
+                "Support": {
+                    "Champion": "Ashe",
+                    "Player": "Veignorem",
+                    "KDA": "1/2/13"
+                }
+            }
+        },
+        "LDLC OL": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Sion",
+                    "Player": "Kryze",
+                    "KDA": "1/4/1"
+                },
+                "Jungle": {
+                    "Champion": "Jarvan IV",
+                    "Player": "White",
+                    "KDA": "2/6/4"
+                },
+                "Mid": {
+                    "Champion": "Sylas",
+                    "Player": "Backlund",
+                    "KDA": "2/2/1"
+                },
+                "ADC": {
+                    "Champion": "Varus",
+                    "Player": "Jeskla",
+                    "KDA": "2/5/4"
+                },
+                "Support": {
+                    "Champion": "Heimerdinger",
+                    "Player": "Zoelys",
+                    "KDA": "1/3/7"
+                }
+            }
+        }
+    },
+    "46966": {
+        "MatchURL": "https://gol.gg/game/stats/46966/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "29:48",
+        "Aegis": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Jax",
+                    "Player": "Lot",
+                    "KDA": "6/3/2"
+                },
+                "Jungle": {
+                    "Champion": "Jarvan IV",
+                    "Player": "SkewMond",
+                    "KDA": "2/1/13"
+                },
+                "Mid": {
+                    "Champion": "Gragas",
+                    "Player": "Eika",
+                    "KDA": "4/1/8"
+                },
+                "ADC": {
+                    "Champion": "Aphelios",
+                    "Player": "Shiganari",
+                    "KDA": "3/0/8"
+                },
+                "Support": {
+                    "Champion": "Nautilus",
+                    "Player": "Hantera",
+                    "KDA": "3/0/12"
+                }
+            }
+        },
+        "GameWard": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Gnar",
+                    "Player": "Badlulu",
+                    "KDA": "1/3/1"
+                },
+                "Jungle": {
+                    "Champion": "Vi",
+                    "Player": "Eckas",
+                    "KDA": "1/4/4"
+                },
+                "Mid": {
+                    "Champion": "Syndra",
+                    "Player": "twohoyrz",
+                    "KDA": "1/6/2"
+                },
+                "ADC": {
+                    "Champion": "Zeri",
+                    "Player": "Pec0",
+                    "KDA": "0/3/1"
+                },
+                "Support": {
+                    "Champion": "Rakan",
+                    "Player": "Raxxo",
+                    "KDA": "2/2/1"
+                }
+            }
+        }
+    },
+    "46965": {
+        "MatchURL": "https://gol.gg/game/stats/46965/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "33:04",
+        "LDLC OL": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Jax",
+                    "Player": "Kryze",
+                    "KDA": "1/1/4"
+                },
+                "Jungle": {
+                    "Champion": "Lee Sin",
+                    "Player": "White",
+                    "KDA": "2/2/4"
+                },
+                "Mid": {
+                    "Champion": "Annie",
+                    "Player": "Backlund",
+                    "KDA": "3/0/5"
+                },
+                "ADC": {
+                    "Champion": "Xayah",
+                    "Player": "Jeskla",
+                    "KDA": "4/0/2"
+                },
+                "Support": {
+                    "Champion": "Thresh",
+                    "Player": "Zoelys",
+                    "KDA": "0/2/6"
+                }
+            }
+        },
+        "Solary": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Gragas",
+                    "Player": "MeLoNiK",
+                    "KDA": "1/3/2"
+                },
+                "Jungle": {
+                    "Champion": "Wukong",
+                    "Player": "Shlatan",
+                    "KDA": "3/1/1"
+                },
+                "Mid": {
+                    "Champion": "Veigar",
+                    "Player": "Peng",
+                    "KDA": "0/2/3"
+                },
+                "ADC": {
+                    "Champion": "Zeri",
+                    "Player": "TakeSet",
+                    "KDA": "0/2/3"
+                },
+                "Support": {
+                    "Champion": "Rakan",
+                    "Player": "Steeelback",
+                    "KDA": "1/2/3"
+                }
+            }
+        }
+    },
+    "46964": {
+        "MatchURL": "https://gol.gg/game/stats/46964/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "38:09",
+        "VITB": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Yone",
+                    "Player": "Agresivoo",
+                    "KDA": "2/3/5"
+                },
+                "Jungle": {
+                    "Champion": "Maokai",
+                    "Player": "Maxi",
+                    "KDA": "1/3/12"
+                },
+                "Mid": {
+                    "Champion": "Annie",
+                    "Player": "Reeker",
+                    "KDA": "7/2/9"
+                },
+                "ADC": {
+                    "Champion": "Zeri",
+                    "Player": "xmatty",
+                    "KDA": "5/3/7"
+                },
+                "Support": {
+                    "Champion": "Lulu",
+                    "Player": "Erdote",
+                    "KDA": "2/3/11"
+                }
+            }
+        },
+        "BDSA": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Sion",
+                    "Player": "PatkicaA",
+                    "KDA": "0/1/4"
+                },
+                "Jungle": {
+                    "Champion": "Elise",
+                    "Player": "Daglas",
+                    "KDA": "7/3/5"
+                },
+                "Mid": {
+                    "Champion": "Jayce",
+                    "Player": "Czajek",
+                    "KDA": "4/5/4"
+                },
+                "ADC": {
+                    "Champion": "Varus",
+                    "Player": "Innaxe",
+                    "KDA": "3/5/9"
+                },
+                "Support": {
+                    "Champion": "Thresh",
+                    "Player": "jactroll",
+                    "KDA": "0/3/12"
+                }
+            }
+        }
+    },
+    "46963": {
+        "MatchURL": "https://gol.gg/game/stats/46963/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "32:00",
+        "KC": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Sion",
+                    "Player": "Cabochard",
+                    "KDA": "3/0/8"
+                },
+                "Jungle": {
+                    "Champion": "Lee Sin",
+                    "Player": "Skeanz",
+                    "KDA": "4/4/11"
+                },
+                "Mid": {
+                    "Champion": "LeBlanc",
+                    "Player": "Saken",
+                    "KDA": "11/3/8"
+                },
+                "ADC": {
+                    "Champion": "Sivir",
+                    "Player": "Kaori",
+                    "KDA": "5/1/12"
+                },
+                "Support": {
+                    "Champion": "Rakan",
+                    "Player": "whiteinn",
+                    "KDA": "2/2/15"
+                }
+            }
+        },
+        "IZI Dream": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Gnar",
+                    "Player": "Kio",
+                    "KDA": "1/4/1"
+                },
+                "Jungle": {
+                    "Champion": "Gragas",
+                    "Player": "Djoko",
+                    "KDA": "3/6/3"
+                },
+                "Mid": {
+                    "Champion": "Jayce",
+                    "Player": "Milica",
+                    "KDA": "1/6/6"
+                },
+                "ADC": {
+                    "Champion": "Ezreal",
+                    "Player": "Bung",
+                    "KDA": "3/3/2"
+                },
+                "Support": {
+                    "Champion": "Amumu",
+                    "Player": "Twiizt",
+                    "KDA": "2/6/7"
+                }
+            }
+        }
+    },
+    "46962": {
+        "MatchURL": "https://gol.gg/game/stats/46962/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "41:00",
+        "Team GO": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Gragas",
+                    "Player": "Ragner",
+                    "KDA": "1/2/7"
+                },
+                "Jungle": {
+                    "Champion": "Kindred",
+                    "Player": "Lyncas",
+                    "KDA": "5/2/12"
+                },
+                "Mid": {
+                    "Champion": "Annie",
+                    "Player": "Toucouille",
+                    "KDA": "7/3/7"
+                },
+                "ADC": {
+                    "Champion": "Xayah",
+                    "Player": "Jezu",
+                    "KDA": "5/1/9"
+                },
+                "Support": {
+                    "Champion": "Rakan",
+                    "Player": "kamilius",
+                    "KDA": "0/5/15"
+                }
+            }
+        },
+        "BKR": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Renekton",
+                    "Player": "Howling",
+                    "KDA": "1/4/4"
+                },
+                "Jungle": {
+                    "Champion": "Sejuani",
+                    "Player": "Pridestalkr",
+                    "KDA": "3/2/8"
+                },
+                "Mid": {
+                    "Champion": "Cassiopeia",
+                    "Player": "Czekolad",
+                    "KDA": "7/3/1"
+                },
+                "ADC": {
+                    "Champion": "Aphelios",
+                    "Player": "Trigger",
+                    "KDA": "2/2/5"
+                },
+                "Support": {
+                    "Champion": "Nautilus",
+                    "Player": "Veignorem",
+                    "KDA": "0/7/8"
+                }
+            }
+        }
+    },
+    "46961": {
+        "MatchURL": "https://gol.gg/game/stats/46961/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "28:46",
+        "IZI Dream": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Gnar",
+                    "Player": "Kio",
+                    "KDA": "4/1/5"
+                },
+                "Jungle": {
+                    "Champion": "Gragas",
+                    "Player": "Djoko",
+                    "KDA": "2/1/10"
+                },
+                "Mid": {
+                    "Champion": "Jayce",
+                    "Player": "Milica",
+                    "KDA": "7/1/7"
+                },
+                "ADC": {
+                    "Champion": "Sivir",
+                    "Player": "Bung",
+                    "KDA": "6/3/9"
+                },
+                "Support": {
+                    "Champion": "Ashe",
+                    "Player": "Twiizt",
+                    "KDA": "0/1/14"
+                }
+            }
+        },
+        "Solary": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Jax",
+                    "Player": "MeLoNiK",
+                    "KDA": "2/5/1"
+                },
+                "Jungle": {
+                    "Champion": "Wukong",
+                    "Player": "Shlatan",
+                    "KDA": "2/4/0"
+                },
+                "Mid": {
+                    "Champion": "Lissandra",
+                    "Player": "Peng",
+                    "KDA": "1/4/0"
+                },
+                "ADC": {
+                    "Champion": "Varus",
+                    "Player": "TakeSet",
+                    "KDA": "2/4/2"
+                },
+                "Support": {
+                    "Champion": "Nautilus",
+                    "Player": "Steeelback",
+                    "KDA": "0/2/2"
+                }
+            }
+        }
+    },
+    "46960": {
+        "MatchURL": "https://gol.gg/game/stats/46960/page-game/",
+        "Score": "0 - 1",
+        "GameTime": "37:05",
+        "Team GO": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Jax",
+                    "Player": "Ragner",
+                    "KDA": "2/2/3"
+                },
+                "Jungle": {
+                    "Champion": "Lillia",
+                    "Player": "Lyncas",
+                    "KDA": "1/1/4"
+                },
+                "Mid": {
+                    "Champion": "Jayce",
+                    "Player": "Toucouille",
+                    "KDA": "0/4/3"
+                },
+                "ADC": {
+                    "Champion": "Yasuo",
+                    "Player": "Jezu",
+                    "KDA": "2/2/2"
+                },
+                "Support": {
+                    "Champion": "Rell",
+                    "Player": "kamilius",
+                    "KDA": "1/3/3"
+                }
+            }
+        },
+        "LDLC OL": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Gragas",
+                    "Player": "Kryze",
+                    "KDA": "0/2/9"
+                },
+                "Jungle": {
+                    "Champion": "Sejuani",
+                    "Player": "White",
+                    "KDA": "1/2/10"
+                },
+                "Mid": {
+                    "Champion": "Yone",
+                    "Player": "Backlund",
+                    "KDA": "6/0/3"
+                },
+                "ADC": {
+                    "Champion": "Zeri",
+                    "Player": "Jeskla",
+                    "KDA": "3/1/5"
+                },
+                "Support": {
+                    "Champion": "Rakan",
+                    "Player": "Zoelys",
+                    "KDA": "2/1/9"
+                }
+            }
+        }
+    },
+    "46959": {
+        "MatchURL": "https://gol.gg/game/stats/46959/page-game/",
+        "Score": "0 - 1",
+        "GameTime": "27:12",
+        "KC": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Olaf",
+                    "Player": "Cabochard",
+                    "KDA": "2/1/3"
+                },
+                "Jungle": {
+                    "Champion": "Elise",
+                    "Player": "Skeanz",
+                    "KDA": "5/1/4"
+                },
+                "Mid": {
+                    "Champion": "Gragas",
+                    "Player": "Saken",
+                    "KDA": "2/5/5"
+                },
+                "ADC": {
+                    "Champion": "Xayah",
+                    "Player": "Kaori",
+                    "KDA": "3/0/4"
+                },
+                "Support": {
+                    "Champion": "Nautilus",
+                    "Player": "whiteinn",
+                    "KDA": "0/7/6"
+                }
+            }
+        },
+        "BDSA": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Jayce",
+                    "Player": "Agresivoo",
+                    "KDA": "3/4/4"
+                },
+                "Jungle": {
+                    "Champion": "Nidalee",
+                    "Player": "Maxi",
+                    "KDA": "6/3/6"
+                },
+                "Mid": {
+                    "Champion": "Karma",
+                    "Player": "Reeker",
+                    "KDA": "0/0/11"
+                },
+                "ADC": {
+                    "Champion": "Zeri",
+                    "Player": "xmatty",
+                    "KDA": "4/2/7"
+                },
+                "Support": {
+                    "Champion": "Braum",
+                    "Player": "Erdote",
+                    "KDA": "1/3/10"
+                }
+            }
+        }
+    },
+    "46958": {
+        "MatchURL": "https://gol.gg/game/stats/46958/page-game/",
+        "Score": "0 - 1",
+        "GameTime": "48:27",
+        "VITB": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Fiora",
+                    "Player": "Badlulu",
+                    "KDA": "3/3/3"
+                },
+                "Jungle": {
+                    "Champion": "Gragas",
+                    "Player": "Eckas",
+                    "KDA": "0/5/9"
+                },
+                "Mid": {
+                    "Champion": "Azir",
+                    "Player": "twohoyrz",
+                    "KDA": "2/8/3"
+                },
+                "ADC": {
+                    "Champion": "Caitlyn",
+                    "Player": "Pec0",
+                    "KDA": "7/1/2"
+                },
+                "Support": {
+                    "Champion": "Lux",
+                    "Player": "Raxxo",
+                    "KDA": "0/2/10"
+                }
+            }
+        },
+        "GameWard": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Ornn",
+                    "Player": "PatkicaA",
+                    "KDA": "4/1/5"
+                },
+                "Jungle": {
+                    "Champion": "Wukong",
+                    "Player": "Daglas",
+                    "KDA": "1/1/12"
+                },
+                "Mid": {
+                    "Champion": "Ahri",
+                    "Player": "Czajek",
+                    "KDA": "7/0/9"
+                },
+                "ADC": {
+                    "Champion": "Xayah",
+                    "Player": "Innaxe",
+                    "KDA": "6/6/6"
+                },
+                "Support": {
+                    "Champion": "Nautilus",
+                    "Player": "jactroll",
+                    "KDA": "1/4/11"
+                }
+            }
+        }
+    },
+    "46957": {
+        "MatchURL": "https://gol.gg/game/stats/46957/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "31:59",
+        "BKR": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Gragas",
+                    "Player": "Lot",
+                    "KDA": "1/1/9"
+                },
+                "Jungle": {
+                    "Champion": "Vi",
+                    "Player": "SkewMond",
+                    "KDA": "2/2/9"
+                },
+                "Mid": {
+                    "Champion": "Orianna",
+                    "Player": "Eika",
+                    "KDA": "5/0/9"
+                },
+                "ADC": {
+                    "Champion": "Aphelios",
+                    "Player": "Shiganari",
+                    "KDA": "6/1/5"
+                },
+                "Support": {
+                    "Champion": "Annie",
+                    "Player": "Hantera",
+                    "KDA": "1/0/12"
+                }
+            }
+        },
+        "Aegis": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Jax",
+                    "Player": "Howling",
+                    "KDA": "1/3/0"
+                },
+                "Jungle": {
+                    "Champion": "Sejuani",
+                    "Player": "Pridestalkr",
+                    "KDA": "0/2/4"
+                },
+                "Mid": {
+                    "Champion": "Azir",
+                    "Player": "Czekolad",
+                    "KDA": "2/4/1"
+                },
+                "ADC": {
+                    "Champion": "Zeri",
+                    "Player": "Trigger",
+                    "KDA": "1/3/1"
+                },
+                "Support": {
+                    "Champion": "Lulu",
+                    "Player": "Veignorem",
+                    "KDA": "0/3/2"
+                }
+            }
+        }
+    },
+    "46306": {
+        "MatchURL": "https://gol.gg/game/stats/46306/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "29:41",
+        "VITB": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Renekton",
+                    "Player": "Howling",
+                    "KDA": "2/0/5"
+                },
+                "Jungle": {
+                    "Champion": "Maokai",
+                    "Player": "Pridestalkr",
+                    "KDA": "5/0/11"
+                },
+                "Mid": {
+                    "Champion": "Jayce",
+                    "Player": "Czekolad",
+                    "KDA": "4/1/10"
+                },
+                "ADC": {
+                    "Champion": "Sivir",
+                    "Player": "Trigger",
+                    "KDA": "6/0/14"
+                },
+                "Support": {
+                    "Champion": "Annie",
+                    "Player": "Veignorem",
+                    "KDA": "4/1/15"
+                }
+            }
+        },
+        "BKR": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Rumble",
+                    "Player": "PatkicaA",
+                    "KDA": "0/1/0"
+                },
+                "Jungle": {
+                    "Champion": "Jarvan IV",
+                    "Player": "Daglas",
+                    "KDA": "0/6/2"
+                },
+                "Mid": {
+                    "Champion": "Sion",
+                    "Player": "Czajek",
+                    "KDA": "0/3/1"
+                },
+                "ADC": {
+                    "Champion": "Zeri",
+                    "Player": "Innaxe",
+                    "KDA": "2/5/0"
+                },
+                "Support": {
+                    "Champion": "Karma",
+                    "Player": "jactroll",
+                    "KDA": "0/6/2"
+                }
+            }
+        }
+    },
+    "46305": {
+        "MatchURL": "https://gol.gg/game/stats/46305/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "27:22",
+        "BDSA": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Gnar",
+                    "Player": "MeLoNiK",
+                    "KDA": "4/3/7"
+                },
+                "Jungle": {
+                    "Champion": "Wukong",
+                    "Player": "Shlatan",
+                    "KDA": "4/2/7"
+                },
+                "Mid": {
+                    "Champion": "Annie",
+                    "Player": "Peng",
+                    "KDA": "3/1/8"
+                },
+                "ADC": {
+                    "Champion": "Varus",
+                    "Player": "TakeSet",
+                    "KDA": "7/0/5"
+                },
+                "Support": {
+                    "Champion": "Nautilus",
+                    "Player": "Steeelback",
+                    "KDA": "0/0/13"
+                }
+            }
+        },
+        "Solary": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Irelia",
+                    "Player": "Agresivoo",
+                    "KDA": "3/5/0"
+                },
+                "Jungle": {
+                    "Champion": "Sejuani",
+                    "Player": "Maxi",
+                    "KDA": "0/5/3"
+                },
+                "Mid": {
+                    "Champion": "Azir",
+                    "Player": "Reeker",
+                    "KDA": "1/4/3"
+                },
+                "ADC": {
+                    "Champion": "Ezreal",
+                    "Player": "xmatty",
+                    "KDA": "2/2/1"
+                },
+                "Support": {
+                    "Champion": "Ashe",
+                    "Player": "Erdote",
+                    "KDA": "0/2/3"
+                }
+            }
+        }
+    },
+    "46304": {
+        "MatchURL": "https://gol.gg/game/stats/46304/page-game/",
+        "Score": "0 - 1",
+        "GameTime": "33:08",
+        "KC": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Gnar",
+                    "Player": "Cabochard",
+                    "KDA": "2/2/1"
+                },
+                "Jungle": {
+                    "Champion": "Elise",
+                    "Player": "Skeanz",
+                    "KDA": "4/2/4"
+                },
+                "Mid": {
+                    "Champion": "Jayce",
+                    "Player": "Saken",
+                    "KDA": "2/4/5"
+                },
+                "ADC": {
+                    "Champion": "Ziggs",
+                    "Player": "Kaori",
+                    "KDA": "1/1/4"
+                },
+                "Support": {
+                    "Champion": "Nautilus",
+                    "Player": "whiteinn",
+                    "KDA": "0/4/6"
+                }
+            }
+        },
+        "GameWard": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Jax",
+                    "Player": "Badlulu",
+                    "KDA": "3/2/4"
+                },
+                "Jungle": {
+                    "Champion": "Vi",
+                    "Player": "Eckas",
+                    "KDA": "3/4/9"
+                },
+                "Mid": {
+                    "Champion": "Ryze",
+                    "Player": "twohoyrz",
+                    "KDA": "3/0/8"
+                },
+                "ADC": {
+                    "Champion": "Xayah",
+                    "Player": "Pec0",
+                    "KDA": "3/0/4"
+                },
+                "Support": {
+                    "Champion": "Rakan",
+                    "Player": "Raxxo",
+                    "KDA": "1/3/9"
+                }
+            }
+        }
+    },
+    "46303": {
+        "MatchURL": "https://gol.gg/game/stats/46303/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "24:28",
+        "Aegis": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Jax",
+                    "Player": "Ragner",
+                    "KDA": "3/0/3"
+                },
+                "Jungle": {
+                    "Champion": "Maokai",
+                    "Player": "Lyncas",
+                    "KDA": "3/0/8"
+                },
+                "Mid": {
+                    "Champion": "Orianna",
+                    "Player": "Toucouille",
+                    "KDA": "3/0/5"
+                },
+                "ADC": {
+                    "Champion": "Samira",
+                    "Player": "Jezu",
+                    "KDA": "4/0/5"
+                },
+                "Support": {
+                    "Champion": "Nautilus",
+                    "Player": "kamilius",
+                    "KDA": "0/0/11"
+                }
+            }
+        },
+        "Team GO": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Jayce",
+                    "Player": "Lot",
+                    "KDA": "0/2/0"
+                },
+                "Jungle": {
+                    "Champion": "Sejuani",
+                    "Player": "SkewMond",
+                    "KDA": "0/3/0"
+                },
+                "Mid": {
+                    "Champion": "Azir",
+                    "Player": "Eika",
+                    "KDA": "0/3/0"
+                },
+                "ADC": {
+                    "Champion": "Draven",
+                    "Player": "Shiganari",
+                    "KDA": "0/3/0"
+                },
+                "Support": {
+                    "Champion": "Braum",
+                    "Player": "Hantera",
+                    "KDA": "0/2/0"
+                }
+            }
+        }
+    },
+    "46302": {
+        "MatchURL": "https://gol.gg/game/stats/46302/page-game/",
+        "Score": "0 - 1",
+        "GameTime": "31:26",
+        "IZI Dream": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "KSante",
+                    "Player": "Kio",
+                    "KDA": "1/2/0"
+                },
+                "Jungle": {
+                    "Champion": "Sejuani",
+                    "Player": "Djoko",
+                    "KDA": "2/3/5"
+                },
+                "Mid": {
+                    "Champion": "Viktor",
+                    "Player": "Milica",
+                    "KDA": "3/3/1"
+                },
+                "ADC": {
+                    "Champion": "Varus",
+                    "Player": "Bung",
+                    "KDA": "1/4/4"
+                },
+                "Support": {
+                    "Champion": "Nautilus",
+                    "Player": "Twiizt",
+                    "KDA": "2/6/3"
+                }
+            }
+        },
+        "LDLC OL": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Jax",
+                    "Player": "Kryze",
+                    "KDA": "3/0/8"
+                },
+                "Jungle": {
+                    "Champion": "Maokai",
+                    "Player": "White",
+                    "KDA": "0/4/11"
+                },
+                "Mid": {
+                    "Champion": "Yone",
+                    "Player": "Backlund",
+                    "KDA": "6/1/1"
+                },
+                "ADC": {
+                    "Champion": "Kalista",
+                    "Player": "Jeskla",
+                    "KDA": "6/2/9"
+                },
+                "Support": {
+                    "Champion": "Tahm Kench",
+                    "Player": "Zoelys",
+                    "KDA": "3/2/13"
+                }
+            }
+        }
+    },
+    "46301": {
+        "MatchURL": "https://gol.gg/game/stats/46301/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "30:47",
+        "BDSA": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Sion",
+                    "Player": "Agresivoo",
+                    "KDA": "1/3/5"
+                },
+                "Jungle": {
+                    "Champion": "Maokai",
+                    "Player": "Maxi",
+                    "KDA": "4/3/7"
+                },
+                "Mid": {
+                    "Champion": "Azir",
+                    "Player": "Reeker",
+                    "KDA": "4/0/10"
+                },
+                "ADC": {
+                    "Champion": "Ezreal",
+                    "Player": "xmatty",
+                    "KDA": "5/3/8"
+                },
+                "Support": {
+                    "Champion": "Karma",
+                    "Player": "Erdote",
+                    "KDA": "1/1/13"
+                }
+            }
+        },
+        "IZI Dream": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Olaf",
+                    "Player": "Kio",
+                    "KDA": "1/2/5"
+                },
+                "Jungle": {
+                    "Champion": "Elise",
+                    "Player": "Djoko",
+                    "KDA": "2/2/4"
+                },
+                "Mid": {
+                    "Champion": "Jayce",
+                    "Player": "Milica",
+                    "KDA": "4/2/0"
+                },
+                "ADC": {
+                    "Champion": "Sivir",
+                    "Player": "Bung",
+                    "KDA": "2/4/7"
+                },
+                "Support": {
+                    "Champion": "Nautilus",
+                    "Player": "Twiizt",
+                    "KDA": "1/5/6"
+                }
+            }
+        }
+    },
+    "46300": {
+        "MatchURL": "https://gol.gg/game/stats/46300/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "29:04",
+        "VITB": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Olaf",
+                    "Player": "Ragner",
+                    "KDA": "1/1/7"
+                },
+                "Jungle": {
+                    "Champion": "Maokai",
+                    "Player": "Lyncas",
+                    "KDA": "0/3/10"
+                },
+                "Mid": {
+                    "Champion": "Jayce",
+                    "Player": "Toucouille",
+                    "KDA": "9/0/3"
+                },
+                "ADC": {
+                    "Champion": "Sivir",
+                    "Player": "Jezu",
+                    "KDA": "6/0/10"
+                },
+                "Support": {
+                    "Champion": "Nautilus",
+                    "Player": "kamilius",
+                    "KDA": "0/3/13"
+                }
+            }
+        },
+        "Team GO": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Camille",
+                    "Player": "PatkicaA",
+                    "KDA": "1/2/2"
+                },
+                "Jungle": {
+                    "Champion": "Sejuani",
+                    "Player": "Daglas",
+                    "KDA": "2/4/4"
+                },
+                "Mid": {
+                    "Champion": "Ryze",
+                    "Player": "Czajek",
+                    "KDA": "1/3/4"
+                },
+                "ADC": {
+                    "Champion": "Caitlyn",
+                    "Player": "Innaxe",
+                    "KDA": "2/4/3"
+                },
+                "Support": {
+                    "Champion": "Tahm Kench",
+                    "Player": "jactroll",
+                    "KDA": "0/3/5"
+                }
+            }
+        }
+    },
+    "46299": {
+        "MatchURL": "https://gol.gg/game/stats/46299/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "33:27",
+        "GameWard": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Gnar",
+                    "Player": "MeLoNiK",
+                    "KDA": "3/2/3"
+                },
+                "Jungle": {
+                    "Champion": "Wukong",
+                    "Player": "Shlatan",
+                    "KDA": "3/2/4"
+                },
+                "Mid": {
+                    "Champion": "Syndra",
+                    "Player": "Peng",
+                    "KDA": "2/2/2"
+                },
+                "ADC": {
+                    "Champion": "Xayah",
+                    "Player": "TakeSet",
+                    "KDA": "4/1/5"
+                },
+                "Support": {
+                    "Champion": "Rakan",
+                    "Player": "Steeelback",
+                    "KDA": "1/1/9"
+                }
+            }
+        },
+        "Solary": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Yone",
+                    "Player": "Badlulu",
+                    "KDA": "2/3/1"
+                },
+                "Jungle": {
+                    "Champion": "Graves",
+                    "Player": "Eckas",
+                    "KDA": "2/2/6"
+                },
+                "Mid": {
+                    "Champion": "Azir",
+                    "Player": "twohoyrz",
+                    "KDA": "3/1/5"
+                },
+                "ADC": {
+                    "Champion": "Varus",
+                    "Player": "Pec0",
+                    "KDA": "1/4/4"
+                },
+                "Support": {
+                    "Champion": "Nautilus",
+                    "Player": "Raxxo",
+                    "KDA": "0/3/5"
+                }
+            }
+        }
+    },
+    "46298": {
+        "MatchURL": "https://gol.gg/game/stats/46298/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "23:42",
+        "BKR": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Sion",
+                    "Player": "Cabochard",
+                    "KDA": "3/0/2"
+                },
+                "Jungle": {
+                    "Champion": "Vi",
+                    "Player": "Skeanz",
+                    "KDA": "5/1/8"
+                },
+                "Mid": {
+                    "Champion": "Swain",
+                    "Player": "Saken",
+                    "KDA": "2/0/9"
+                },
+                "ADC": {
+                    "Champion": "Zeri",
+                    "Player": "Kaori",
+                    "KDA": "5/1/8"
+                },
+                "Support": {
+                    "Champion": "Lulu",
+                    "Player": "whiteinn",
+                    "KDA": "0/0/13"
+                }
+            }
+        },
+        "KC": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Gwen",
+                    "Player": "Howling",
+                    "KDA": "1/2/1"
+                },
+                "Jungle": {
+                    "Champion": "Xin Zhao",
+                    "Player": "Pridestalkr",
+                    "KDA": "1/3/1"
+                },
+                "Mid": {
+                    "Champion": "Ahri",
+                    "Player": "Czekolad",
+                    "KDA": "0/2/2"
+                },
+                "ADC": {
+                    "Champion": "Varus",
+                    "Player": "Trigger",
+                    "KDA": "0/3/2"
+                },
+                "Support": {
+                    "Champion": "Nautilus",
+                    "Player": "Veignorem",
+                    "KDA": "0/5/1"
+                }
+            }
+        }
+    },
+    "46297": {
+        "MatchURL": "https://gol.gg/game/stats/46297/page-game/",
+        "Score": "0 - 1",
+        "GameTime": "32:53",
+        "Aegis": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Gnar",
+                    "Player": "Lot",
+                    "KDA": "1/2/4"
+                },
+                "Jungle": {
+                    "Champion": "Vi",
+                    "Player": "SkewMond",
+                    "KDA": "5/5/3"
+                },
+                "Mid": {
+                    "Champion": "Annie",
+                    "Player": "Eika",
+                    "KDA": "5/3/5"
+                },
+                "ADC": {
+                    "Champion": "Varus",
+                    "Player": "Shiganari",
+                    "KDA": "2/4/6"
+                },
+                "Support": {
+                    "Champion": "Ashe",
+                    "Player": "Hantera",
+                    "KDA": "0/4/12"
+                }
+            }
+        },
+        "LDLC OL": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Jax",
+                    "Player": "Kryze",
+                    "KDA": "2/1/7"
+                },
+                "Jungle": {
+                    "Champion": "Maokai",
+                    "Player": "White",
+                    "KDA": "2/5/11"
+                },
+                "Mid": {
+                    "Champion": "Yone",
+                    "Player": "Backlund",
+                    "KDA": "6/2/8"
+                },
+                "ADC": {
+                    "Champion": "Ezreal",
+                    "Player": "Jeskla",
+                    "KDA": "5/1/5"
+                },
+                "Support": {
+                    "Champion": "Heimerdinger",
+                    "Player": "Zoelys",
+                    "KDA": "3/4/10"
+                }
+            }
+        }
+    },
+    "45954": {
+        "MatchURL": "https://gol.gg/game/stats/45954/page-game/",
+        "Score": "0 - 1",
+        "GameTime": "38:15",
+        "VITB": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Renekton",
+                    "Player": "PatkicaA",
+                    "KDA": "1/3/3"
+                },
+                "Jungle": {
+                    "Champion": "Udyr",
+                    "Player": "Daglas",
+                    "KDA": "2/3/6"
+                },
+                "Mid": {
+                    "Champion": "Jayce",
+                    "Player": "Czajek",
+                    "KDA": "2/5/4"
+                },
+                "ADC": {
+                    "Champion": "Lucian",
+                    "Player": "Innaxe",
+                    "KDA": "4/3/2"
+                },
+                "Support": {
+                    "Champion": "Nami",
+                    "Player": "jactroll",
+                    "KDA": "0/3/6"
+                }
+            }
+        },
+        "KC": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Gnar",
+                    "Player": "Cabochard",
+                    "KDA": "1/2/11"
+                },
+                "Jungle": {
+                    "Champion": "Vi",
+                    "Player": "Skeanz",
+                    "KDA": "3/2/7"
+                },
+                "Mid": {
+                    "Champion": "Ahri",
+                    "Player": "Saken",
+                    "KDA": "3/3/9"
+                },
+                "ADC": {
+                    "Champion": "Zeri",
+                    "Player": "Kaori",
+                    "KDA": "9/1/7"
+                },
+                "Support": {
+                    "Champion": "Lulu",
+                    "Player": "whiteinn",
+                    "KDA": "1/1/15"
+                }
+            }
+        }
+    },
+    "45953": {
+        "MatchURL": "https://gol.gg/game/stats/45953/page-game/",
+        "Score": "0 - 1",
+        "GameTime": "43:06",
+        "Aegis": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "KSante",
+                    "Player": "Lot",
+                    "KDA": "3/5/5"
+                },
+                "Jungle": {
+                    "Champion": "Elise",
+                    "Player": "SkewMond",
+                    "KDA": "4/5/2"
+                },
+                "Mid": {
+                    "Champion": "Orianna",
+                    "Player": "Eika",
+                    "KDA": "2/4/8"
+                },
+                "ADC": {
+                    "Champion": "Xayah",
+                    "Player": "Shiganari",
+                    "KDA": "4/2/4"
+                },
+                "Support": {
+                    "Champion": "Nautilus",
+                    "Player": "Hantera",
+                    "KDA": "1/4/9"
+                }
+            }
+        },
+        "Solary": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Gwen",
+                    "Player": "MeLoNiK",
+                    "KDA": "2/4/9"
+                },
+                "Jungle": {
+                    "Champion": "Vi",
+                    "Player": "Shlatan",
+                    "KDA": "4/4/8"
+                },
+                "Mid": {
+                    "Champion": "Syndra",
+                    "Player": "Peng",
+                    "KDA": "5/5/11"
+                },
+                "ADC": {
+                    "Champion": "Zeri",
+                    "Player": "TakeSet",
+                    "KDA": "9/0/8"
+                },
+                "Support": {
+                    "Champion": "Braum",
+                    "Player": "Steeelback",
+                    "KDA": "0/1/14"
+                }
+            }
+        }
+    },
+    "45952": {
+        "MatchURL": "https://gol.gg/game/stats/45952/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "33:12",
+        "LDLC OL": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Sion",
+                    "Player": "Badlulu",
+                    "KDA": "0/1/9"
+                },
+                "Jungle": {
+                    "Champion": "Elise",
+                    "Player": "Eckas",
+                    "KDA": "1/1/7"
+                },
+                "Mid": {
+                    "Champion": "Tristana",
+                    "Player": "twohoyrz",
+                    "KDA": "4/1/3"
+                },
+                "ADC": {
+                    "Champion": "Caitlyn",
+                    "Player": "Pec0",
+                    "KDA": "6/2/3"
+                },
+                "Support": {
+                    "Champion": "Nautilus",
+                    "Player": "Raxxo",
+                    "KDA": "0/1/9"
+                }
+            }
+        },
+        "GameWard": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Jax",
+                    "Player": "Kryze",
+                    "KDA": "0/2/1"
+                },
+                "Jungle": {
+                    "Champion": "Sejuani",
+                    "Player": "White",
+                    "KDA": "0/4/3"
+                },
+                "Mid": {
+                    "Champion": "Sylas",
+                    "Player": "Backlund",
+                    "KDA": "5/2/0"
+                },
+                "ADC": {
+                    "Champion": "Ezreal",
+                    "Player": "Jeskla",
+                    "KDA": "0/1/5"
+                },
+                "Support": {
+                    "Champion": "Karma",
+                    "Player": "Zoelys",
+                    "KDA": "0/2/5"
+                }
+            }
+        }
+    },
+    "45951": {
+        "MatchURL": "https://gol.gg/game/stats/45951/page-game/",
+        "Score": "0 - 1",
+        "GameTime": "26:57",
+        "IZI Dream": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "KSante",
+                    "Player": "Kio",
+                    "KDA": "1/4/1"
+                },
+                "Jungle": {
+                    "Champion": "Nautilus",
+                    "Player": "Darlik",
+                    "KDA": "1/9/2"
+                },
+                "Mid": {
+                    "Champion": "LeBlanc",
+                    "Player": "Milica",
+                    "KDA": "1/2/1"
+                },
+                "ADC": {
+                    "Champion": "Kaisa",
+                    "Player": "Bung",
+                    "KDA": "1/4/2"
+                },
+                "Support": {
+                    "Champion": "Sejuani",
+                    "Player": "Twiizt",
+                    "KDA": "0/6/2"
+                }
+            }
+        },
+        "Team GO": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Olaf",
+                    "Player": "Ragner",
+                    "KDA": "3/0/10"
+                },
+                "Jungle": {
+                    "Champion": "Lillia",
+                    "Player": "Lyncas",
+                    "KDA": "10/1/12"
+                },
+                "Mid": {
+                    "Champion": "Jayce",
+                    "Player": "Toucouille",
+                    "KDA": "2/1/11"
+                },
+                "ADC": {
+                    "Champion": "Sivir",
+                    "Player": "Jezu",
+                    "KDA": "9/1/13"
+                },
+                "Support": {
+                    "Champion": "Leona",
+                    "Player": "kamilius",
+                    "KDA": "1/1/22"
+                }
+            }
+        }
+    },
+    "45950": {
+        "MatchURL": "https://gol.gg/game/stats/45950/page-game/",
+        "Score": "0 - 1",
+        "GameTime": "33:35",
+        "BDSA": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Renekton",
+                    "Player": "Howling",
+                    "KDA": "3/3/3"
+                },
+                "Jungle": {
+                    "Champion": "Maokai",
+                    "Player": "Pridestalkr",
+                    "KDA": "2/5/6"
+                },
+                "Mid": {
+                    "Champion": "Viktor",
+                    "Player": "Czekolad",
+                    "KDA": "3/5/3"
+                },
+                "ADC": {
+                    "Champion": "Lucian",
+                    "Player": "Trigger",
+                    "KDA": "4/4/4"
+                },
+                "Support": {
+                    "Champion": "Nami",
+                    "Player": "Veignorem",
+                    "KDA": "1/4/11"
+                }
+            }
+        },
+        "BKR": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Gnar",
+                    "Player": "Agresivoo",
+                    "KDA": "5/2/4"
+                },
+                "Jungle": {
+                    "Champion": "Xin Zhao",
+                    "Player": "Maxi",
+                    "KDA": "6/4/10"
+                },
+                "Mid": {
+                    "Champion": "Ryze",
+                    "Player": "Reeker",
+                    "KDA": "4/3/12"
+                },
+                "ADC": {
+                    "Champion": "Varus",
+                    "Player": "xmatty",
+                    "KDA": "5/2/7"
+                },
+                "Support": {
+                    "Champion": "Karma",
+                    "Player": "Erdote",
+                    "KDA": "1/2/17"
+                }
+            }
+        }
+    },
+    "45463": {
+        "MatchURL": "https://gol.gg/game/stats/45463/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "30:12",
+        "Solary": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "KSante",
+                    "Player": "Ragner",
+                    "KDA": "4/0/3"
+                },
+                "Jungle": {
+                    "Champion": "Sejuani",
+                    "Player": "Lyncas",
+                    "KDA": "1/0/9"
+                },
+                "Mid": {
+                    "Champion": "Ryze",
+                    "Player": "Toucouille",
+                    "KDA": "3/1/9"
+                },
+                "ADC": {
+                    "Champion": "Sivir",
+                    "Player": "Jezu",
+                    "KDA": "3/0/4"
+                },
+                "Support": {
+                    "Champion": "Ashe",
+                    "Player": "kamilius",
+                    "KDA": "2/1/7"
+                }
+            }
+        },
+        "Team GO": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Gnar",
+                    "Player": "MeLoNiK",
+                    "KDA": "0/2/0"
+                },
+                "Jungle": {
+                    "Champion": "Wukong",
+                    "Player": "Shlatan",
+                    "KDA": "1/3/1"
+                },
+                "Mid": {
+                    "Champion": "Karma",
+                    "Player": "Peng",
+                    "KDA": "0/4/0"
+                },
+                "ADC": {
+                    "Champion": "Varus",
+                    "Player": "TakeSet",
+                    "KDA": "1/1/0"
+                },
+                "Support": {
+                    "Champion": "Leona",
+                    "Player": "Steeelback",
+                    "KDA": "0/3/1"
+                }
+            }
+        }
+    },
+    "45462": {
+        "MatchURL": "https://gol.gg/game/stats/45462/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "24:36",
+        "IZI Dream": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Renekton",
+                    "Player": "Howling",
+                    "KDA": "4/0/4"
+                },
+                "Jungle": {
+                    "Champion": "Elise",
+                    "Player": "Pridestalkr",
+                    "KDA": "4/1/3"
+                },
+                "Mid": {
+                    "Champion": "Azir",
+                    "Player": "Czekolad",
+                    "KDA": "0/0/2"
+                },
+                "ADC": {
+                    "Champion": "Varus",
+                    "Player": "Trigger",
+                    "KDA": "2/1/6"
+                },
+                "Support": {
+                    "Champion": "Heimerdinger",
+                    "Player": "Veignorem",
+                    "KDA": "1/2/4"
+                }
+            }
+        },
+        "BKR": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Jax",
+                    "Player": "Kio",
+                    "KDA": "0/4/1"
+                },
+                "Jungle": {
+                    "Champion": "Vi",
+                    "Player": "Djoko",
+                    "KDA": "1/3/1"
+                },
+                "Mid": {
+                    "Champion": "Orianna",
+                    "Player": "Milica",
+                    "KDA": "0/1/1"
+                },
+                "ADC": {
+                    "Champion": "Sivir",
+                    "Player": "Bung",
+                    "KDA": "1/3/1"
+                },
+                "Support": {
+                    "Champion": "Miss Fortune",
+                    "Player": "Twiizt",
+                    "KDA": "2/0/2"
+                }
+            }
+        }
+    },
+    "45461": {
+        "MatchURL": "https://gol.gg/game/stats/45461/page-game/",
+        "Score": "0 - 1",
+        "GameTime": "31:08",
+        "KC": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Gnar",
+                    "Player": "Cabochard",
+                    "KDA": "0/5/2"
+                },
+                "Jungle": {
+                    "Champion": "Maokai",
+                    "Player": "Skeanz",
+                    "KDA": "1/8/4"
+                },
+                "Mid": {
+                    "Champion": "Jayce",
+                    "Player": "Saken",
+                    "KDA": "5/6/1"
+                },
+                "ADC": {
+                    "Champion": "Ashe",
+                    "Player": "Kaori",
+                    "KDA": "1/3/5"
+                },
+                "Support": {
+                    "Champion": "Heimerdinger",
+                    "Player": "whiteinn",
+                    "KDA": "1/5/4"
+                }
+            }
+        },
+        "Aegis": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "KSante",
+                    "Player": "Lot",
+                    "KDA": "4/0/9"
+                },
+                "Jungle": {
+                    "Champion": "Sejuani",
+                    "Player": "SkewMond",
+                    "KDA": "5/1/19"
+                },
+                "Mid": {
+                    "Champion": "Orianna",
+                    "Player": "Eika",
+                    "KDA": "9/3/16"
+                },
+                "ADC": {
+                    "Champion": "Lucian",
+                    "Player": "Shiganari",
+                    "KDA": "6/3/7"
+                },
+                "Support": {
+                    "Champion": "Nami",
+                    "Player": "Hantera",
+                    "KDA": "3/1/21"
+                }
+            }
+        }
+    },
+    "45460": {
+        "MatchURL": "https://gol.gg/game/stats/45460/page-game/",
+        "Score": "0 - 1",
+        "GameTime": "37:39",
+        "BDSA": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Jax",
+                    "Player": "Agresivoo",
+                    "KDA": "1/4/4"
+                },
+                "Jungle": {
+                    "Champion": "Elise",
+                    "Player": "Maxi",
+                    "KDA": "0/2/4"
+                },
+                "Mid": {
+                    "Champion": "Kassadin",
+                    "Player": "Reeker",
+                    "KDA": "3/2/2"
+                },
+                "ADC": {
+                    "Champion": "Zeri",
+                    "Player": "xmatty",
+                    "KDA": "3/2/2"
+                },
+                "Support": {
+                    "Champion": "Lulu",
+                    "Player": "Erdote",
+                    "KDA": "1/3/3"
+                }
+            }
+        },
+        "GameWard": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "KSante",
+                    "Player": "Badlulu",
+                    "KDA": "1/3/5"
+                },
+                "Jungle": {
+                    "Champion": "Vi",
+                    "Player": "Eckas",
+                    "KDA": "1/1/8"
+                },
+                "Mid": {
+                    "Champion": "Ahri",
+                    "Player": "twohoyrz",
+                    "KDA": "9/2/2"
+                },
+                "ADC": {
+                    "Champion": "Lucian",
+                    "Player": "Pec0",
+                    "KDA": "2/1/5"
+                },
+                "Support": {
+                    "Champion": "Nami",
+                    "Player": "Raxxo",
+                    "KDA": "0/2/11"
+                }
+            }
+        }
+    },
+    "45459": {
+        "MatchURL": "https://gol.gg/game/stats/45459/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "35:30",
+        "VITB": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Camille",
+                    "Player": "PatkicaA",
+                    "KDA": "4/1/1"
+                },
+                "Jungle": {
+                    "Champion": "Sejuani",
+                    "Player": "Daglas",
+                    "KDA": "2/1/6"
+                },
+                "Mid": {
+                    "Champion": "Viktor",
+                    "Player": "Czajek",
+                    "KDA": "1/1/2"
+                },
+                "ADC": {
+                    "Champion": "Sivir",
+                    "Player": "Innaxe",
+                    "KDA": "4/3/1"
+                },
+                "Support": {
+                    "Champion": "Ashe",
+                    "Player": "jactroll",
+                    "KDA": "0/5/5"
+                }
+            }
+        },
+        "LDLC OL": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Sion",
+                    "Player": "Kryze",
+                    "KDA": "2/3/3"
+                },
+                "Jungle": {
+                    "Champion": "Maokai",
+                    "Player": "White",
+                    "KDA": "1/1/5"
+                },
+                "Mid": {
+                    "Champion": "Jayce",
+                    "Player": "Backlund",
+                    "KDA": "4/3/4"
+                },
+                "ADC": {
+                    "Champion": "Varus",
+                    "Player": "Jeskla",
+                    "KDA": "4/2/4"
+                },
+                "Support": {
+                    "Champion": "Tahm Kench",
+                    "Player": "Zoelys",
+                    "KDA": "0/2/10"
+                }
+            }
+        }
+    },
+    "45458": {
+        "MatchURL": "https://gol.gg/game/stats/45458/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "30:29",
+        "Aegis": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Gnar",
+                    "Player": "Lot",
+                    "KDA": "1/0/10"
+                },
+                "Jungle": {
+                    "Champion": "Vi",
+                    "Player": "SkewMond",
+                    "KDA": "1/4/12"
+                },
+                "Mid": {
+                    "Champion": "Orianna",
+                    "Player": "Eika",
+                    "KDA": "7/0/9"
+                },
+                "ADC": {
+                    "Champion": "Draven",
+                    "Player": "Shiganari",
+                    "KDA": "9/1/8"
+                },
+                "Support": {
+                    "Champion": "Leona",
+                    "Player": "Hantera",
+                    "KDA": "0/3/15"
+                }
+            }
+        },
+        "IZI Dream": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Fiora",
+                    "Player": "Kio",
+                    "KDA": "2/2/0"
+                },
+                "Jungle": {
+                    "Champion": "Amumu",
+                    "Player": "Djoko",
+                    "KDA": "0/7/5"
+                },
+                "Mid": {
+                    "Champion": "Ryze",
+                    "Player": "Milica",
+                    "KDA": "0/2/5"
+                },
+                "ADC": {
+                    "Champion": "Kalista",
+                    "Player": "Bung",
+                    "KDA": "6/3/2"
+                },
+                "Support": {
+                    "Champion": "Braum",
+                    "Player": "Twiizt",
+                    "KDA": "0/4/6"
+                }
+            }
+        }
+    },
+    "45457": {
+        "MatchURL": "https://gol.gg/game/stats/45457/page-game/",
+        "Score": "0 - 1",
+        "GameTime": "42:13",
+        "BDSA": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Jax",
+                    "Player": "Ragner",
+                    "KDA": "6/1/2"
+                },
+                "Jungle": {
+                    "Champion": "Elise",
+                    "Player": "Lyncas",
+                    "KDA": "1/4/6"
+                },
+                "Mid": {
+                    "Champion": "Azir",
+                    "Player": "Toucouille",
+                    "KDA": "1/4/4"
+                },
+                "ADC": {
+                    "Champion": "Sivir",
+                    "Player": "Jezu",
+                    "KDA": "5/2/6"
+                },
+                "Support": {
+                    "Champion": "Ashe",
+                    "Player": "kamilius",
+                    "KDA": "1/4/6"
+                }
+            }
+        },
+        "Team GO": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "KSante",
+                    "Player": "Agresivoo",
+                    "KDA": "3/2/5"
+                },
+                "Jungle": {
+                    "Champion": "Graves",
+                    "Player": "Maxi",
+                    "KDA": "4/2/6"
+                },
+                "Mid": {
+                    "Champion": "Akali",
+                    "Player": "Reeker",
+                    "KDA": "3/2/5"
+                },
+                "ADC": {
+                    "Champion": "Varus",
+                    "Player": "xmatty",
+                    "KDA": "5/4/5"
+                },
+                "Support": {
+                    "Champion": "Karma",
+                    "Player": "Erdote",
+                    "KDA": "0/4/12"
+                }
+            }
+        }
+    },
+    "45456": {
+        "MatchURL": "https://gol.gg/game/stats/45456/page-game/",
+        "Score": "0 - 1",
+        "GameTime": "30:54",
+        "Solary": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "KSante",
+                    "Player": "PatkicaA",
+                    "KDA": "3/1/5"
+                },
+                "Jungle": {
+                    "Champion": "Belveth",
+                    "Player": "Daglas",
+                    "KDA": "3/3/7"
+                },
+                "Mid": {
+                    "Champion": "Cassiopeia",
+                    "Player": "Czajek",
+                    "KDA": "2/3/2"
+                },
+                "ADC": {
+                    "Champion": "Lucian",
+                    "Player": "Innaxe",
+                    "KDA": "3/3/5"
+                },
+                "Support": {
+                    "Champion": "Nami",
+                    "Player": "jactroll",
+                    "KDA": "0/4/11"
+                }
+            }
+        },
+        "VITB": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Jayce",
+                    "Player": "MeLoNiK",
+                    "KDA": "5/0/8"
+                },
+                "Jungle": {
+                    "Champion": "Vi",
+                    "Player": "Shlatan",
+                    "KDA": "1/4/8"
+                },
+                "Mid": {
+                    "Champion": "Ryze",
+                    "Player": "Peng",
+                    "KDA": "2/3/4"
+                },
+                "ADC": {
+                    "Champion": "Kaisa",
+                    "Player": "TakeSet",
+                    "KDA": "6/2/2"
+                },
+                "Support": {
+                    "Champion": "Nautilus",
+                    "Player": "Steeelback",
+                    "KDA": "0/2/9"
+                }
+            }
+        }
+    },
+    "45455": {
+        "MatchURL": "https://gol.gg/game/stats/45455/page-game/",
+        "Score": "0 - 1",
+        "GameTime": "31:03",
+        "GameWard": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "KSante",
+                    "Player": "Howling",
+                    "KDA": "0/4/1"
+                },
+                "Jungle": {
+                    "Champion": "Wukong",
+                    "Player": "Pridestalkr",
+                    "KDA": "2/2/1"
+                },
+                "Mid": {
+                    "Champion": "Viktor",
+                    "Player": "Czekolad",
+                    "KDA": "0/2/2"
+                },
+                "ADC": {
+                    "Champion": "Varus",
+                    "Player": "Trigger",
+                    "KDA": "0/1/1"
+                },
+                "Support": {
+                    "Champion": "Heimerdinger",
+                    "Player": "Veignorem",
+                    "KDA": "1/3/0"
+                }
+            }
+        },
+        "BKR": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Fiora",
+                    "Player": "Badlulu",
+                    "KDA": "5/0/3"
+                },
+                "Jungle": {
+                    "Champion": "Vi",
+                    "Player": "Eckas",
+                    "KDA": "2/2/6"
+                },
+                "Mid": {
+                    "Champion": "Ryze",
+                    "Player": "twohoyrz",
+                    "KDA": "4/0/6"
+                },
+                "ADC": {
+                    "Champion": "Lucian",
+                    "Player": "Pec0",
+                    "KDA": "1/0/5"
+                },
+                "Support": {
+                    "Champion": "Nami",
+                    "Player": "Raxxo",
+                    "KDA": "0/1/8"
+                }
+            }
+        }
+    },
+    "45454": {
+        "MatchURL": "https://gol.gg/game/stats/45454/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "35:11",
+        "LDLC OL": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Sion",
+                    "Player": "Kryze",
+                    "KDA": "3/1/7"
+                },
+                "Jungle": {
+                    "Champion": "Vi",
+                    "Player": "White",
+                    "KDA": "1/4/13"
+                },
+                "Mid": {
+                    "Champion": "Akali",
+                    "Player": "Backlund",
+                    "KDA": "8/1/6"
+                },
+                "ADC": {
+                    "Champion": "Varus",
+                    "Player": "Jeskla",
+                    "KDA": "8/3/5"
+                },
+                "Support": {
+                    "Champion": "Heimerdinger",
+                    "Player": "Zoelys",
+                    "KDA": "3/5/11"
+                }
+            }
+        },
+        "KC": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Olaf",
+                    "Player": "Cabochard",
+                    "KDA": "4/5/2"
+                },
+                "Jungle": {
+                    "Champion": "Wukong",
+                    "Player": "Skeanz",
+                    "KDA": "4/6/6"
+                },
+                "Mid": {
+                    "Champion": "Viktor",
+                    "Player": "Saken",
+                    "KDA": "3/4/6"
+                },
+                "ADC": {
+                    "Champion": "Lucian",
+                    "Player": "Kaori",
+                    "KDA": "3/3/3"
+                },
+                "Support": {
+                    "Champion": "Nami",
+                    "Player": "whiteinn",
+                    "KDA": "0/5/10"
+                }
+            }
+        }
+    },
+    "45204": {
+        "MatchURL": "https://gol.gg/game/stats/45204/page-game/",
+        "Score": "0 - 1",
+        "GameTime": "24:14",
+        "Team GO": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Sion",
+                    "Player": "Ragner",
+                    "KDA": "0/3/0"
+                },
+                "Jungle": {
+                    "Champion": "Graves",
+                    "Player": "Lyncas",
+                    "KDA": "0/4/4"
+                },
+                "Mid": {
+                    "Champion": "Syndra",
+                    "Player": "Toucouille",
+                    "KDA": "0/2/1"
+                },
+                "ADC": {
+                    "Champion": "Kalista",
+                    "Player": "Jezu",
+                    "KDA": "3/4/0"
+                },
+                "Support": {
+                    "Champion": "Leona",
+                    "Player": "kamilius",
+                    "KDA": "1/5/3"
+                }
+            }
+        },
+        "BKR": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "KSante",
+                    "Player": "Howling",
+                    "KDA": "1/0/9"
+                },
+                "Jungle": {
+                    "Champion": "Xin Zhao",
+                    "Player": "Pridestalkr",
+                    "KDA": "2/0/9"
+                },
+                "Mid": {
+                    "Champion": "Azir",
+                    "Player": "Czekolad",
+                    "KDA": "4/0/4"
+                },
+                "ADC": {
+                    "Champion": "Varus",
+                    "Player": "Trigger",
+                    "KDA": "9/3/4"
+                },
+                "Support": {
+                    "Champion": "Ashe",
+                    "Player": "Veignorem",
+                    "KDA": "2/1/11"
+                }
+            }
+        }
+    },
+    "45203": {
+        "MatchURL": "https://gol.gg/game/stats/45203/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "44:43",
+        "LDLC OL": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Sion",
+                    "Player": "Kryze",
+                    "KDA": "3/1/7"
+                },
+                "Jungle": {
+                    "Champion": "Vi",
+                    "Player": "White",
+                    "KDA": "1/2/10"
+                },
+                "Mid": {
+                    "Champion": "Ryze",
+                    "Player": "Backlund",
+                    "KDA": "4/1/8"
+                },
+                "ADC": {
+                    "Champion": "Kalista",
+                    "Player": "Jeskla",
+                    "KDA": "6/2/7"
+                },
+                "Support": {
+                    "Champion": "Renata Glasc",
+                    "Player": "Zoelys",
+                    "KDA": "0/2/13"
+                }
+            }
+        },
+        "Solary": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Jax",
+                    "Player": "MeLoNiK",
+                    "KDA": "3/3/4"
+                },
+                "Jungle": {
+                    "Champion": "Sejuani",
+                    "Player": "Shlatan",
+                    "KDA": "0/4/8"
+                },
+                "Mid": {
+                    "Champion": "Orianna",
+                    "Player": "Peng",
+                    "KDA": "3/4/5"
+                },
+                "ADC": {
+                    "Champion": "Draven",
+                    "Player": "TakeSet",
+                    "KDA": "2/2/6"
+                },
+                "Support": {
+                    "Champion": "Ashe",
+                    "Player": "Steeelback",
+                    "KDA": "0/1/6"
+                }
+            }
+        }
+    },
+    "45202": {
+        "MatchURL": "https://gol.gg/game/stats/45202/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "23:33",
+        "VITB": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Ornn",
+                    "Player": "PatkicaA",
+                    "KDA": "2/1/4"
+                },
+                "Jungle": {
+                    "Champion": "Wukong",
+                    "Player": "Daglas",
+                    "KDA": "4/2/8"
+                },
+                "Mid": {
+                    "Champion": "Ryze",
+                    "Player": "Czajek",
+                    "KDA": "3/1/11"
+                },
+                "ADC": {
+                    "Champion": "Varus",
+                    "Player": "Innaxe",
+                    "KDA": "8/1/5"
+                },
+                "Support": {
+                    "Champion": "Amumu",
+                    "Player": "jactroll",
+                    "KDA": "0/4/12"
+                }
+            }
+        },
+        "BDSA": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Renekton",
+                    "Player": "Agresivoo",
+                    "KDA": "3/3/2"
+                },
+                "Jungle": {
+                    "Champion": "Maokai",
+                    "Player": "Maxi",
+                    "KDA": "2/5/1"
+                },
+                "Mid": {
+                    "Champion": "Jayce",
+                    "Player": "Reeker",
+                    "KDA": "3/4/3"
+                },
+                "ADC": {
+                    "Champion": "Ashe",
+                    "Player": "xmatty",
+                    "KDA": "1/2/4"
+                },
+                "Support": {
+                    "Champion": "Tahm Kench",
+                    "Player": "Erdote",
+                    "KDA": "0/3/4"
+                }
+            }
+        }
+    },
+    "45201": {
+        "MatchURL": "https://gol.gg/game/stats/45201/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "40:06",
+        "KC": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Jax",
+                    "Player": "Cabochard",
+                    "KDA": "1/5/2"
+                },
+                "Jungle": {
+                    "Champion": "Elise",
+                    "Player": "Skeanz",
+                    "KDA": "6/0/3"
+                },
+                "Mid": {
+                    "Champion": "Sett",
+                    "Player": "Saken",
+                    "KDA": "0/5/5"
+                },
+                "ADC": {
+                    "Champion": "Caitlyn",
+                    "Player": "Kaori",
+                    "KDA": "3/1/5"
+                },
+                "Support": {
+                    "Champion": "Lux",
+                    "Player": "whiteinn",
+                    "KDA": "1/0/7"
+                }
+            }
+        },
+        "IZI Dream": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Renekton",
+                    "Player": "Kio",
+                    "KDA": "2/0/7"
+                },
+                "Jungle": {
+                    "Champion": "Vi",
+                    "Player": "Djoko",
+                    "KDA": "2/4/7"
+                },
+                "Mid": {
+                    "Champion": "Syndra",
+                    "Player": "Milica",
+                    "KDA": "3/2/3"
+                },
+                "ADC": {
+                    "Champion": "Varus",
+                    "Player": "Bung",
+                    "KDA": "4/2/3"
+                },
+                "Support": {
+                    "Champion": "Nautilus",
+                    "Player": "Twiizt",
+                    "KDA": "0/3/6"
+                }
+            }
+        }
+    },
+    "45200": {
+        "MatchURL": "https://gol.gg/game/stats/45200/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "32:03",
+        "Aegis": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Fiora",
+                    "Player": "Badlulu",
+                    "KDA": "6/1/3"
+                },
+                "Jungle": {
+                    "Champion": "Elise",
+                    "Player": "Eckas",
+                    "KDA": "4/0/5"
+                },
+                "Mid": {
+                    "Champion": "Azir",
+                    "Player": "twohoyrz",
+                    "KDA": "0/2/4"
+                },
+                "ADC": {
+                    "Champion": "Aphelios",
+                    "Player": "Pec0",
+                    "KDA": "1/1/5"
+                },
+                "Support": {
+                    "Champion": "Renata Glasc",
+                    "Player": "Raxxo",
+                    "KDA": "1/2/8"
+                }
+            }
+        },
+        "GameWard": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "KSante",
+                    "Player": "Lot",
+                    "KDA": "1/2/2"
+                },
+                "Jungle": {
+                    "Champion": "Xin Zhao",
+                    "Player": "SkewMond",
+                    "KDA": "2/4/3"
+                },
+                "Mid": {
+                    "Champion": "Kassadin",
+                    "Player": "Eika",
+                    "KDA": "1/2/2"
+                },
+                "ADC": {
+                    "Champion": "Kalista",
+                    "Player": "Shiganari",
+                    "KDA": "2/2/1"
+                },
+                "Support": {
+                    "Champion": "Soraka",
+                    "Player": "Hantera",
+                    "KDA": "0/3/3"
+                }
+            }
+        }
+    },
+    "45199": {
+        "MatchURL": "https://gol.gg/game/stats/45199/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "37:22",
+        "BKR": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "KSante",
+                    "Player": "Lot",
+                    "KDA": "4/1/14"
+                },
+                "Jungle": {
+                    "Champion": "Maokai",
+                    "Player": "SkewMond",
+                    "KDA": "4/2/20"
+                },
+                "Mid": {
+                    "Champion": "Azir",
+                    "Player": "Eika",
+                    "KDA": "12/4/7"
+                },
+                "ADC": {
+                    "Champion": "Kalista",
+                    "Player": "Shiganari",
+                    "KDA": "5/3/14"
+                },
+                "Support": {
+                    "Champion": "Leona",
+                    "Player": "Hantera",
+                    "KDA": "2/4/16"
+                }
+            }
+        },
+        "Aegis": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Jax",
+                    "Player": "Howling",
+                    "KDA": "3/6/7"
+                },
+                "Jungle": {
+                    "Champion": "Xin Zhao",
+                    "Player": "Pridestalkr",
+                    "KDA": "1/4/10"
+                },
+                "Mid": {
+                    "Champion": "Kassadin",
+                    "Player": "Czekolad",
+                    "KDA": "6/4/6"
+                },
+                "ADC": {
+                    "Champion": "Varus",
+                    "Player": "Trigger",
+                    "KDA": "4/6/7"
+                },
+                "Support": {
+                    "Champion": "Nautilus",
+                    "Player": "Veignorem",
+                    "KDA": "0/7/11"
+                }
+            }
+        }
+    },
+    "45198": {
+        "MatchURL": "https://gol.gg/game/stats/45198/page-game/",
+        "Score": "0 - 1",
+        "GameTime": "47:35",
+        "VITB": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Jax",
+                    "Player": "Badlulu",
+                    "KDA": "1/7/3"
+                },
+                "Jungle": {
+                    "Champion": "Graves",
+                    "Player": "Eckas",
+                    "KDA": "1/2/8"
+                },
+                "Mid": {
+                    "Champion": "Syndra",
+                    "Player": "twohoyrz",
+                    "KDA": "5/4/2"
+                },
+                "ADC": {
+                    "Champion": "Jhin",
+                    "Player": "Pec0",
+                    "KDA": "4/2/4"
+                },
+                "Support": {
+                    "Champion": "Lux",
+                    "Player": "Raxxo",
+                    "KDA": "1/3/10"
+                }
+            }
+        },
+        "GameWard": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "KSante",
+                    "Player": "PatkicaA",
+                    "KDA": "5/1/8"
+                },
+                "Jungle": {
+                    "Champion": "Elise",
+                    "Player": "Daglas",
+                    "KDA": "3/3/9"
+                },
+                "Mid": {
+                    "Champion": "Jayce",
+                    "Player": "Czajek",
+                    "KDA": "2/4/4"
+                },
+                "ADC": {
+                    "Champion": "Ezreal",
+                    "Player": "Innaxe",
+                    "KDA": "8/2/7"
+                },
+                "Support": {
+                    "Champion": "Karma",
+                    "Player": "jactroll",
+                    "KDA": "0/2/14"
+                }
+            }
+        }
+    },
+    "45197": {
+        "MatchURL": "https://gol.gg/game/stats/45197/page-game/",
+        "Score": "0 - 1",
+        "GameTime": "28:09",
+        "KC": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Gnar",
+                    "Player": "Cabochard",
+                    "KDA": "0/2/2"
+                },
+                "Jungle": {
+                    "Champion": "Wukong",
+                    "Player": "Skeanz",
+                    "KDA": "1/1/1"
+                },
+                "Mid": {
+                    "Champion": "Azir",
+                    "Player": "Saken",
+                    "KDA": "1/0/0"
+                },
+                "ADC": {
+                    "Champion": "Varus",
+                    "Player": "Kaori",
+                    "KDA": "0/2/0"
+                },
+                "Support": {
+                    "Champion": "Leona",
+                    "Player": "whiteinn",
+                    "KDA": "0/5/2"
+                }
+            }
+        },
+        "BDSA": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Renekton",
+                    "Player": "Agresivoo",
+                    "KDA": "3/1/0"
+                },
+                "Jungle": {
+                    "Champion": "Maokai",
+                    "Player": "Maxi",
+                    "KDA": "2/1/7"
+                },
+                "Mid": {
+                    "Champion": "Jayce",
+                    "Player": "Reeker",
+                    "KDA": "4/0/4"
+                },
+                "ADC": {
+                    "Champion": "Ezreal",
+                    "Player": "xmatty",
+                    "KDA": "1/0/7"
+                },
+                "Support": {
+                    "Champion": "Braum",
+                    "Player": "Erdote",
+                    "KDA": "0/0/9"
+                }
+            }
+        }
+    },
+    "45196": {
+        "MatchURL": "https://gol.gg/game/stats/45196/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "29:13",
+        "IZI Dream": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Fiora",
+                    "Player": "Kio",
+                    "KDA": "7/0/5"
+                },
+                "Jungle": {
+                    "Champion": "Sejuani",
+                    "Player": "Djoko",
+                    "KDA": "2/1/15"
+                },
+                "Mid": {
+                    "Champion": "Kassadin",
+                    "Player": "Milica",
+                    "KDA": "8/1/12"
+                },
+                "ADC": {
+                    "Champion": "Kalista",
+                    "Player": "Bung",
+                    "KDA": "7/1/8"
+                },
+                "Support": {
+                    "Champion": "Nautilus",
+                    "Player": "Twiizt",
+                    "KDA": "0/1/13"
+                }
+            }
+        },
+        "Solary": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Gnar",
+                    "Player": "MeLoNiK",
+                    "KDA": "1/6/1"
+                },
+                "Jungle": {
+                    "Champion": "Elise",
+                    "Player": "Shlatan",
+                    "KDA": "0/4/3"
+                },
+                "Mid": {
+                    "Champion": "Azir",
+                    "Player": "Peng",
+                    "KDA": "0/5/4"
+                },
+                "ADC": {
+                    "Champion": "Lucian",
+                    "Player": "TakeSet",
+                    "KDA": "3/5/1"
+                },
+                "Support": {
+                    "Champion": "Nami",
+                    "Player": "Steeelback",
+                    "KDA": "0/4/4"
+                }
+            }
+        }
+    },
+    "45195": {
+        "MatchURL": "https://gol.gg/game/stats/45195/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "39:11",
+        "Team GO": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "KSante",
+                    "Player": "Ragner",
+                    "KDA": "3/2/8"
+                },
+                "Jungle": {
+                    "Champion": "Zac",
+                    "Player": "Lyncas",
+                    "KDA": "1/2/10"
+                },
+                "Mid": {
+                    "Champion": "Viktor",
+                    "Player": "Toucouille",
+                    "KDA": "2/1/8"
+                },
+                "ADC": {
+                    "Champion": "Lucian",
+                    "Player": "Jezu",
+                    "KDA": "14/0/2"
+                },
+                "Support": {
+                    "Champion": "Nami",
+                    "Player": "kamilius",
+                    "KDA": "0/1/18"
+                }
+            }
+        },
+        "LDLC OL": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Fiora",
+                    "Player": "Kryze",
+                    "KDA": "2/1/1"
+                },
+                "Jungle": {
+                    "Champion": "Vi",
+                    "Player": "White",
+                    "KDA": "0/5/4"
+                },
+                "Mid": {
+                    "Champion": "Syndra",
+                    "Player": "Backlund",
+                    "KDA": "2/3/2"
+                },
+                "ADC": {
+                    "Champion": "Caitlyn",
+                    "Player": "Jeskla",
+                    "KDA": "2/3/2"
+                },
+                "Support": {
+                    "Champion": "Lux",
+                    "Player": "Zoelys",
+                    "KDA": "0/8/5"
+                }
+            }
+        }
+    },
+    "44758": {
+        "MatchURL": "https://gol.gg/game/stats/44758/page-game/",
+        "Score": "0 - 1",
+        "GameTime": "30:25",
+        "BDSA": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Jax",
+                    "Player": "Lot",
+                    "KDA": "1/2/2"
+                },
+                "Jungle": {
+                    "Champion": "Viego",
+                    "Player": "SkewMond",
+                    "KDA": "4/4/5"
+                },
+                "Mid": {
+                    "Champion": "Cassiopeia",
+                    "Player": "Eika",
+                    "KDA": "2/2/5"
+                },
+                "ADC": {
+                    "Champion": "Kalista",
+                    "Player": "Shiganari",
+                    "KDA": "2/5/5"
+                },
+                "Support": {
+                    "Champion": "Leona",
+                    "Player": "Hantera",
+                    "KDA": "2/4/7"
+                }
+            }
+        },
+        "Aegis": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Jayce",
+                    "Player": "Agresivoo",
+                    "KDA": "3/2/9"
+                },
+                "Jungle": {
+                    "Champion": "Wukong",
+                    "Player": "Maxi",
+                    "KDA": "3/4/9"
+                },
+                "Mid": {
+                    "Champion": "Ryze",
+                    "Player": "Reeker",
+                    "KDA": "7/1/8"
+                },
+                "ADC": {
+                    "Champion": "Varus",
+                    "Player": "xmatty",
+                    "KDA": "4/1/11"
+                },
+                "Support": {
+                    "Champion": "Braum",
+                    "Player": "Erdote",
+                    "KDA": "0/3/16"
+                }
+            }
+        }
+    },
+    "44757": {
+        "MatchURL": "https://gol.gg/game/stats/44757/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "49:20",
+        "VITB": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "KSante",
+                    "Player": "PatkicaA",
+                    "KDA": "0/5/12"
+                },
+                "Jungle": {
+                    "Champion": "Hecarim",
+                    "Player": "Daglas",
+                    "KDA": "9/5/10"
+                },
+                "Mid": {
+                    "Champion": "Ryze",
+                    "Player": "Czajek",
+                    "KDA": "7/3/10"
+                },
+                "ADC": {
+                    "Champion": "Lucian",
+                    "Player": "Innaxe",
+                    "KDA": "7/3/12"
+                },
+                "Support": {
+                    "Champion": "Nami",
+                    "Player": "jactroll",
+                    "KDA": "1/2/21"
+                }
+            }
+        },
+        "IZI Dream": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Fiora",
+                    "Player": "Kio",
+                    "KDA": "6/2/9"
+                },
+                "Jungle": {
+                    "Champion": "Vi",
+                    "Player": "Djoko",
+                    "KDA": "1/7/10"
+                },
+                "Mid": {
+                    "Champion": "Akali",
+                    "Player": "Milica",
+                    "KDA": "2/6/7"
+                },
+                "ADC": {
+                    "Champion": "Varus",
+                    "Player": "Bung",
+                    "KDA": "8/2/7"
+                },
+                "Support": {
+                    "Champion": "Nautilus",
+                    "Player": "Twiizt",
+                    "KDA": "1/7/11"
+                }
+            }
+        }
+    },
+    "44756": {
+        "MatchURL": "https://gol.gg/game/stats/44756/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "48:34",
+        "Team GO": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "KSante",
+                    "Player": "Badlulu",
+                    "KDA": "3/4/12"
+                },
+                "Jungle": {
+                    "Champion": "Graves",
+                    "Player": "Eckas",
+                    "KDA": "7/4/11"
+                },
+                "Mid": {
+                    "Champion": "Syndra",
+                    "Player": "twohoyrz",
+                    "KDA": "7/4/5"
+                },
+                "ADC": {
+                    "Champion": "Jhin",
+                    "Player": "Pec0",
+                    "KDA": "4/1/12"
+                },
+                "Support": {
+                    "Champion": "Nautilus",
+                    "Player": "Raxxo",
+                    "KDA": "0/9/9"
+                }
+            }
+        },
+        "GameWard": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Jax",
+                    "Player": "Ragner",
+                    "KDA": "2/6/7"
+                },
+                "Jungle": {
+                    "Champion": "Maokai",
+                    "Player": "Lyncas",
+                    "KDA": "4/5/14"
+                },
+                "Mid": {
+                    "Champion": "Jayce",
+                    "Player": "Toucouille",
+                    "KDA": "8/3/10"
+                },
+                "ADC": {
+                    "Champion": "Kalista",
+                    "Player": "Jezu",
+                    "KDA": "7/1/9"
+                },
+                "Support": {
+                    "Champion": "Amumu",
+                    "Player": "kamilius",
+                    "KDA": "1/6/16"
+                }
+            }
+        }
+    },
+    "44755": {
+        "MatchURL": "https://gol.gg/game/stats/44755/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "34:34",
+        "Solary": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Fiora",
+                    "Player": "MeLoNiK",
+                    "KDA": "4/2/2"
+                },
+                "Jungle": {
+                    "Champion": "Wukong",
+                    "Player": "Shlatan",
+                    "KDA": "3/3/8"
+                },
+                "Mid": {
+                    "Champion": "Orianna",
+                    "Player": "Peng",
+                    "KDA": "2/1/8"
+                },
+                "ADC": {
+                    "Champion": "Varus",
+                    "Player": "TakeSet",
+                    "KDA": "7/1/3"
+                },
+                "Support": {
+                    "Champion": "Nautilus",
+                    "Player": "Steeelback",
+                    "KDA": "0/3/10"
+                }
+            }
+        },
+        "KC": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Jax",
+                    "Player": "Cabochard",
+                    "KDA": "3/3/4"
+                },
+                "Jungle": {
+                    "Champion": "Sejuani",
+                    "Player": "Skeanz",
+                    "KDA": "1/5/5"
+                },
+                "Mid": {
+                    "Champion": "Sylas",
+                    "Player": "Saken",
+                    "KDA": "0/4/2"
+                },
+                "ADC": {
+                    "Champion": "Ezreal",
+                    "Player": "Kaori",
+                    "KDA": "6/2/3"
+                },
+                "Support": {
+                    "Champion": "Karma",
+                    "Player": "whiteinn",
+                    "KDA": "0/2/9"
+                }
+            }
+        }
+    },
+    "44754": {
+        "MatchURL": "https://gol.gg/game/stats/44754/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "36:23",
+        "BKR": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "KSante",
+                    "Player": "Kryze",
+                    "KDA": "1/2/12"
+                },
+                "Jungle": {
+                    "Champion": "Maokai",
+                    "Player": "White",
+                    "KDA": "1/5/14"
+                },
+                "Mid": {
+                    "Champion": "Kassadin",
+                    "Player": "Backlund",
+                    "KDA": "6/4/9"
+                },
+                "ADC": {
+                    "Champion": "Varus",
+                    "Player": "Jeskla",
+                    "KDA": "6/4/10"
+                },
+                "Support": {
+                    "Champion": "Tahm Kench",
+                    "Player": "Zoelys",
+                    "KDA": "5/2/12"
+                }
+            }
+        },
+        "LDLC OL": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Jax",
+                    "Player": "Howling",
+                    "KDA": "3/3/6"
+                },
+                "Jungle": {
+                    "Champion": "Sejuani",
+                    "Player": "Pridestalkr",
+                    "KDA": "1/4/12"
+                },
+                "Mid": {
+                    "Champion": "Akali",
+                    "Player": "Czekolad",
+                    "KDA": "3/3/9"
+                },
+                "ADC": {
+                    "Champion": "Kalista",
+                    "Player": "Trigger",
+                    "KDA": "9/4/6"
+                },
+                "Support": {
+                    "Champion": "Pyke",
+                    "Player": "Veignorem",
+                    "KDA": "1/5/10"
+                }
+            }
+        }
+    },
+    "44753": {
+        "MatchURL": "https://gol.gg/game/stats/44753/page-game/",
+        "Score": "0 - 1",
+        "GameTime": "27:47",
+        "BKR": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Renekton",
+                    "Player": "Cabochard",
+                    "KDA": "3/1/1"
+                },
+                "Jungle": {
+                    "Champion": "Poppy",
+                    "Player": "Skeanz",
+                    "KDA": "0/4/2"
+                },
+                "Mid": {
+                    "Champion": "Azir",
+                    "Player": "Saken",
+                    "KDA": "0/4/1"
+                },
+                "ADC": {
+                    "Champion": "Zeri",
+                    "Player": "Kaori",
+                    "KDA": "1/2/0"
+                },
+                "Support": {
+                    "Champion": "Yuumi",
+                    "Player": "whiteinn",
+                    "KDA": "0/3/2"
+                }
+            }
+        },
+        "KC": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Jax",
+                    "Player": "Howling",
+                    "KDA": "1/2/7"
+                },
+                "Jungle": {
+                    "Champion": "Vi",
+                    "Player": "Pridestalkr",
+                    "KDA": "2/1/7"
+                },
+                "Mid": {
+                    "Champion": "Ahri",
+                    "Player": "Czekolad",
+                    "KDA": "4/0/7"
+                },
+                "ADC": {
+                    "Champion": "Kalista",
+                    "Player": "Trigger",
+                    "KDA": "7/0/1"
+                },
+                "Support": {
+                    "Champion": "Amumu",
+                    "Player": "Veignorem",
+                    "KDA": "0/1/11"
+                }
+            }
+        }
+    },
+    "44752": {
+        "MatchURL": "https://gol.gg/game/stats/44752/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "31:13",
+        "GameWard": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Jax",
+                    "Player": "Badlulu",
+                    "KDA": "5/0/7"
+                },
+                "Jungle": {
+                    "Champion": "Graves",
+                    "Player": "Eckas",
+                    "KDA": "0/1/12"
+                },
+                "Mid": {
+                    "Champion": "Syndra",
+                    "Player": "twohoyrz",
+                    "KDA": "4/0/8"
+                },
+                "ADC": {
+                    "Champion": "Kalista",
+                    "Player": "Pec0",
+                    "KDA": "5/0/7"
+                },
+                "Support": {
+                    "Champion": "Nautilus",
+                    "Player": "Raxxo",
+                    "KDA": "0/2/12"
+                }
+            }
+        },
+        "Solary": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Renekton",
+                    "Player": "MeLoNiK",
+                    "KDA": "1/3/1"
+                },
+                "Jungle": {
+                    "Champion": "Vi",
+                    "Player": "Shlatan",
+                    "KDA": "0/4/3"
+                },
+                "Mid": {
+                    "Champion": "Akali",
+                    "Player": "Peng",
+                    "KDA": "2/3/1"
+                },
+                "ADC": {
+                    "Champion": "Zeri",
+                    "Player": "TakeSet",
+                    "KDA": "0/2/3"
+                },
+                "Support": {
+                    "Champion": "Yuumi",
+                    "Player": "Steeelback",
+                    "KDA": "0/2/3"
+                }
+            }
+        }
+    },
+    "44751": {
+        "MatchURL": "https://gol.gg/game/stats/44751/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "36:20",
+        "VITB": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Jax",
+                    "Player": "Ragner",
+                    "KDA": "3/3/6"
+                },
+                "Jungle": {
+                    "Champion": "Graves",
+                    "Player": "Lyncas",
+                    "KDA": "1/2/6"
+                },
+                "Mid": {
+                    "Champion": "Azir",
+                    "Player": "Toucouille",
+                    "KDA": "9/2/6"
+                },
+                "ADC": {
+                    "Champion": "Lucian",
+                    "Player": "Jezu",
+                    "KDA": "2/3/10"
+                },
+                "Support": {
+                    "Champion": "Nami",
+                    "Player": "kamilius",
+                    "KDA": "0/1/14"
+                }
+            }
+        },
+        "Team GO": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "KSante",
+                    "Player": "PatkicaA",
+                    "KDA": "2/1/8"
+                },
+                "Jungle": {
+                    "Champion": "Viego",
+                    "Player": "Daglas",
+                    "KDA": "1/3/7"
+                },
+                "Mid": {
+                    "Champion": "Akali",
+                    "Player": "Czajek",
+                    "KDA": "3/3/5"
+                },
+                "ADC": {
+                    "Champion": "Kalista",
+                    "Player": "Innaxe",
+                    "KDA": "3/3/6"
+                },
+                "Support": {
+                    "Champion": "Nautilus",
+                    "Player": "jactroll",
+                    "KDA": "2/5/7"
+                }
+            }
+        }
+    },
+    "44750": {
+        "MatchURL": "https://gol.gg/game/stats/44750/page-game/",
+        "Score": "0 - 1",
+        "GameTime": "29:45",
+        "BDSA": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Gangplank",
+                    "Player": "Kio",
+                    "KDA": "2/2/0"
+                },
+                "Jungle": {
+                    "Champion": "Maokai",
+                    "Player": "Djoko",
+                    "KDA": "0/3/1"
+                },
+                "Mid": {
+                    "Champion": "Azir",
+                    "Player": "Milica",
+                    "KDA": "0/1/1"
+                },
+                "ADC": {
+                    "Champion": "Sivir",
+                    "Player": "Bung",
+                    "KDA": "0/0/2"
+                },
+                "Support": {
+                    "Champion": "Heimerdinger",
+                    "Player": "Twiizt",
+                    "KDA": "0/1/1"
+                }
+            }
+        },
+        "IZI Dream": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Renekton",
+                    "Player": "Agresivoo",
+                    "KDA": "3/0/2"
+                },
+                "Jungle": {
+                    "Champion": "Sejuani",
+                    "Player": "Maxi",
+                    "KDA": "2/0/4"
+                },
+                "Mid": {
+                    "Champion": "Sylas",
+                    "Player": "Reeker",
+                    "KDA": "2/1/2"
+                },
+                "ADC": {
+                    "Champion": "Varus",
+                    "Player": "xmatty",
+                    "KDA": "0/1/2"
+                },
+                "Support": {
+                    "Champion": "Ashe",
+                    "Player": "Erdote",
+                    "KDA": "0/0/6"
+                }
+            }
+        }
+    },
+    "44749": {
+        "MatchURL": "https://gol.gg/game/stats/44749/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "32:31",
+        "Aegis": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Gnar",
+                    "Player": "Kryze",
+                    "KDA": "4/2/6"
+                },
+                "Jungle": {
+                    "Champion": "Maokai",
+                    "Player": "White",
+                    "KDA": "2/1/9"
+                },
+                "Mid": {
+                    "Champion": "Yasuo",
+                    "Player": "Backlund",
+                    "KDA": "2/2/5"
+                },
+                "ADC": {
+                    "Champion": "Caitlyn",
+                    "Player": "Jeskla",
+                    "KDA": "8/0/5"
+                },
+                "Support": {
+                    "Champion": "Lux",
+                    "Player": "Zoelys",
+                    "KDA": "0/0/14"
+                }
+            }
+        },
+        "LDLC OL": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Camille",
+                    "Player": "Lot",
+                    "KDA": "3/5/1"
+                },
+                "Jungle": {
+                    "Champion": "Sejuani",
+                    "Player": "SkewMond",
+                    "KDA": "1/2/3"
+                },
+                "Mid": {
+                    "Champion": "Syndra",
+                    "Player": "Eika",
+                    "KDA": "0/2/2"
+                },
+                "ADC": {
+                    "Champion": "Ashe",
+                    "Player": "Shiganari",
+                    "KDA": "0/3/2"
+                },
+                "Support": {
+                    "Champion": "Heimerdinger",
+                    "Player": "Hantera",
+                    "KDA": "1/4/3"
+                }
+            }
+        }
+    },
+    "44585": {
+        "MatchURL": "https://gol.gg/game/stats/44585/page-game/",
+        "Score": "0 - 1",
+        "GameTime": "25:43",
+        "Solary": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Ornn",
+                    "Player": "Agresivoo",
+                    "KDA": "1/3/8"
+                },
+                "Jungle": {
+                    "Champion": "Wukong",
+                    "Player": "Maxi",
+                    "KDA": "2/6/7"
+                },
+                "Mid": {
+                    "Champion": "Akali",
+                    "Player": "Reeker",
+                    "KDA": "7/3/2"
+                },
+                "ADC": {
+                    "Champion": "Zeri",
+                    "Player": "xmatty",
+                    "KDA": "0/7/7"
+                },
+                "Support": {
+                    "Champion": "Yuumi",
+                    "Player": "Erdote",
+                    "KDA": "0/4/10"
+                }
+            }
+        },
+        "BDSA": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Fiora",
+                    "Player": "MeLoNiK",
+                    "KDA": "6/2/8"
+                },
+                "Jungle": {
+                    "Champion": "Vi",
+                    "Player": "Shlatan",
+                    "KDA": "1/4/9"
+                },
+                "Mid": {
+                    "Champion": "Syndra",
+                    "Player": "Peng",
+                    "KDA": "10/2/7"
+                },
+                "ADC": {
+                    "Champion": "Lucian",
+                    "Player": "TakeSet",
+                    "KDA": "5/1/10"
+                },
+                "Support": {
+                    "Champion": "Nami",
+                    "Player": "Steeelback",
+                    "KDA": "1/1/20"
+                }
+            }
+        }
+    },
+    "44584": {
+        "MatchURL": "https://gol.gg/game/stats/44584/page-game/",
+        "Score": "0 - 1",
+        "GameTime": "33:07",
+        "Team GO": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Malphite",
+                    "Player": "Ragner",
+                    "KDA": "0/3/2"
+                },
+                "Jungle": {
+                    "Champion": "Wukong",
+                    "Player": "Lyncas",
+                    "KDA": "2/3/1"
+                },
+                "Mid": {
+                    "Champion": "Ahri",
+                    "Player": "Toucouille",
+                    "KDA": "0/3/1"
+                },
+                "ADC": {
+                    "Champion": "Draven",
+                    "Player": "Jezu",
+                    "KDA": "1/2/2"
+                },
+                "Support": {
+                    "Champion": "Nami",
+                    "Player": "kamilius",
+                    "KDA": "0/3/3"
+                }
+            }
+        },
+        "Aegis": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "KSante",
+                    "Player": "Lot",
+                    "KDA": "1/0/8"
+                },
+                "Jungle": {
+                    "Champion": "Maokai",
+                    "Player": "SkewMond",
+                    "KDA": "2/0/8"
+                },
+                "Mid": {
+                    "Champion": "Syndra",
+                    "Player": "Eika",
+                    "KDA": "5/2/5"
+                },
+                "ADC": {
+                    "Champion": "Lucian",
+                    "Player": "Shiganari",
+                    "KDA": "6/1/3"
+                },
+                "Support": {
+                    "Champion": "Sona",
+                    "Player": "Hantera",
+                    "KDA": "0/0/12"
+                }
+            }
+        }
+    },
+    "44583": {
+        "MatchURL": "https://gol.gg/game/stats/44583/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "29:34",
+        "KC": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "KSante",
+                    "Player": "Cabochard",
+                    "KDA": "3/3/7"
+                },
+                "Jungle": {
+                    "Champion": "Vi",
+                    "Player": "Skeanz",
+                    "KDA": "2/2/10"
+                },
+                "Mid": {
+                    "Champion": "Viktor",
+                    "Player": "Saken",
+                    "KDA": "8/4/6"
+                },
+                "ADC": {
+                    "Champion": "Lucian",
+                    "Player": "Kaori",
+                    "KDA": "4/1/6"
+                },
+                "Support": {
+                    "Champion": "Sona",
+                    "Player": "whiteinn",
+                    "KDA": "0/1/16"
+                }
+            }
+        },
+        "GameWard": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Gwen",
+                    "Player": "Badlulu",
+                    "KDA": "4/4/3"
+                },
+                "Jungle": {
+                    "Champion": "Wukong",
+                    "Player": "Eckas",
+                    "KDA": "3/4/7"
+                },
+                "Mid": {
+                    "Champion": "Azir",
+                    "Player": "twohoyrz",
+                    "KDA": "2/5/5"
+                },
+                "ADC": {
+                    "Champion": "Xayah",
+                    "Player": "Pec0",
+                    "KDA": "2/2/4"
+                },
+                "Support": {
+                    "Champion": "Nami",
+                    "Player": "Raxxo",
+                    "KDA": "0/2/8"
+                }
+            }
+        }
+    },
+    "44582": {
+        "MatchURL": "https://gol.gg/game/stats/44582/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "34:28",
+        "IZI Dream": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Gangplank",
+                    "Player": "Kryze",
+                    "KDA": "6/2/6"
+                },
+                "Jungle": {
+                    "Champion": "Wukong",
+                    "Player": "White",
+                    "KDA": "3/0/5"
+                },
+                "Mid": {
+                    "Champion": "Syndra",
+                    "Player": "Backlund",
+                    "KDA": "4/2/6"
+                },
+                "ADC": {
+                    "Champion": "Caitlyn",
+                    "Player": "Jeskla",
+                    "KDA": "4/1/8"
+                },
+                "Support": {
+                    "Champion": "Heimerdinger",
+                    "Player": "Zoelys",
+                    "KDA": "1/0/8"
+                }
+            }
+        },
+        "LDLC OL": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Jax",
+                    "Player": "Kio",
+                    "KDA": "0/3/2"
+                },
+                "Jungle": {
+                    "Champion": "Lee Sin",
+                    "Player": "Djoko",
+                    "KDA": "2/4/3"
+                },
+                "Mid": {
+                    "Champion": "Ryze",
+                    "Player": "Milica",
+                    "KDA": "3/4/0"
+                },
+                "ADC": {
+                    "Champion": "Varus",
+                    "Player": "Bung",
+                    "KDA": "0/4/2"
+                },
+                "Support": {
+                    "Champion": "Lux",
+                    "Player": "Twiizt",
+                    "KDA": "0/3/0"
+                }
+            }
+        }
+    },
+    "44581": {
+        "MatchURL": "https://gol.gg/game/stats/44581/page-game/",
+        "Score": "0 - 1",
+        "GameTime": "37:09",
+        "VITB": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Gnar",
+                    "Player": "Howling",
+                    "KDA": "5/2/3"
+                },
+                "Jungle": {
+                    "Champion": "Maokai",
+                    "Player": "Pridestalkr",
+                    "KDA": "2/5/6"
+                },
+                "Mid": {
+                    "Champion": "Azir",
+                    "Player": "Czekolad",
+                    "KDA": "2/4/5"
+                },
+                "ADC": {
+                    "Champion": "Varus",
+                    "Player": "Trigger",
+                    "KDA": "4/4/4"
+                },
+                "Support": {
+                    "Champion": "Renata Glasc",
+                    "Player": "Veignorem",
+                    "KDA": "0/5/7"
+                }
+            }
+        },
+        "ROG": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Fiora",
+                    "Player": "PatkicaA",
+                    "KDA": "3/1/7"
+                },
+                "Jungle": {
+                    "Champion": "Sejuani",
+                    "Player": "Daglas",
+                    "KDA": "3/5/8"
+                },
+                "Mid": {
+                    "Champion": "Ryze",
+                    "Player": "Czajek",
+                    "KDA": "1/4/10"
+                },
+                "ADC": {
+                    "Champion": "Aphelios",
+                    "Player": "Innaxe",
+                    "KDA": "11/1/4"
+                },
+                "Support": {
+                    "Champion": "Bard",
+                    "Player": "jactroll",
+                    "KDA": "2/2/16"
+                }
+            }
+        }
+    },
+    "44580": {
+        "MatchURL": "https://gol.gg/game/stats/44580/page-game/",
+        "Score": "0 - 1",
+        "GameTime": "36:26",
+        "IZI Dream": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Jax",
+                    "Player": "Kio",
+                    "KDA": "1/4/4"
+                },
+                "Jungle": {
+                    "Champion": "Wukong",
+                    "Player": "Djoko",
+                    "KDA": "0/5/5"
+                },
+                "Mid": {
+                    "Champion": "Ryze",
+                    "Player": "Milica",
+                    "KDA": "5/1/2"
+                },
+                "ADC": {
+                    "Champion": "Ashe",
+                    "Player": "Bung",
+                    "KDA": "1/4/6"
+                },
+                "Support": {
+                    "Champion": "Zyra",
+                    "Player": "Twiizt",
+                    "KDA": "3/4/2"
+                }
+            }
+        },
+        "GameWard": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Fiora",
+                    "Player": "Badlulu",
+                    "KDA": "3/3/5"
+                },
+                "Jungle": {
+                    "Champion": "Sejuani",
+                    "Player": "Eckas",
+                    "KDA": "5/2/7"
+                },
+                "Mid": {
+                    "Champion": "Azir",
+                    "Player": "twohoyrz",
+                    "KDA": "7/3/8"
+                },
+                "ADC": {
+                    "Champion": "Varus",
+                    "Player": "Pec0",
+                    "KDA": "2/1/11"
+                },
+                "Support": {
+                    "Champion": "Lux",
+                    "Player": "Raxxo",
+                    "KDA": "1/1/11"
+                }
+            }
+        }
+    },
+    "44579": {
+        "MatchURL": "https://gol.gg/game/stats/44579/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "33:57",
+        "Team GO": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Sion",
+                    "Player": "Ragner",
+                    "KDA": "1/3/11"
+                },
+                "Jungle": {
+                    "Champion": "Wukong",
+                    "Player": "Lyncas",
+                    "KDA": "7/1/13"
+                },
+                "Mid": {
+                    "Champion": "LeBlanc",
+                    "Player": "Toucouille",
+                    "KDA": "9/1/11"
+                },
+                "ADC": {
+                    "Champion": "Lucian",
+                    "Player": "Jezu",
+                    "KDA": "8/5/10"
+                },
+                "Support": {
+                    "Champion": "Yuumi",
+                    "Player": "kamilius",
+                    "KDA": "1/0/24"
+                }
+            }
+        },
+        "KC": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "KSante",
+                    "Player": "Cabochard",
+                    "KDA": "3/5/3"
+                },
+                "Jungle": {
+                    "Champion": "Vi",
+                    "Player": "Skeanz",
+                    "KDA": "1/6/4"
+                },
+                "Mid": {
+                    "Champion": "Taliyah",
+                    "Player": "Saken",
+                    "KDA": "3/4/4"
+                },
+                "ADC": {
+                    "Champion": "Jhin",
+                    "Player": "Kaori",
+                    "KDA": "1/4/8"
+                },
+                "Support": {
+                    "Champion": "Nami",
+                    "Player": "whiteinn",
+                    "KDA": "2/7/6"
+                }
+            }
+        }
+    },
+    "44578": {
+        "MatchURL": "https://gol.gg/game/stats/44578/page-game/",
+        "Score": "1 - 0",
+        "GameTime": "29:05",
+        "Aegis": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Camille",
+                    "Player": "PatkicaA",
+                    "KDA": "5/2/7"
+                },
+                "Jungle": {
+                    "Champion": "Maokai",
+                    "Player": "Daglas",
+                    "KDA": "2/0/17"
+                },
+                "Mid": {
+                    "Champion": "Lissandra",
+                    "Player": "Czajek",
+                    "KDA": "2/1/16"
+                },
+                "ADC": {
+                    "Champion": "Kalista",
+                    "Player": "Innaxe",
+                    "KDA": "12/1/5"
+                },
+                "Support": {
+                    "Champion": "Nautilus",
+                    "Player": "jactroll",
+                    "KDA": "0/1/16"
+                }
+            }
+        },
+        "VITB": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "KSante",
+                    "Player": "Lot",
+                    "KDA": "2/2/0"
+                },
+                "Jungle": {
+                    "Champion": "Wukong",
+                    "Player": "SkewMond",
+                    "KDA": "3/5/0"
+                },
+                "Mid": {
+                    "Champion": "Taliyah",
+                    "Player": "Eika",
+                    "KDA": "0/4/1"
+                },
+                "ADC": {
+                    "Champion": "Zeri",
+                    "Player": "Shiganari",
+                    "KDA": "0/5/1"
+                },
+                "Support": {
+                    "Champion": "Yuumi",
+                    "Player": "Hantera",
+                    "KDA": "0/5/4"
+                }
+            }
+        }
+    },
+    "44577": {
+        "MatchURL": "https://gol.gg/game/stats/44577/page-game/",
+        "Score": "0 - 1",
+        "GameTime": "25:31",
+        "Solary": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Fiora",
+                    "Player": "Howling",
+                    "KDA": "0/3/1"
+                },
+                "Jungle": {
+                    "Champion": "Wukong",
+                    "Player": "Pridestalkr",
+                    "KDA": "1/2/0"
+                },
+                "Mid": {
+                    "Champion": "Ryze",
+                    "Player": "Czekolad",
+                    "KDA": "0/4/1"
+                },
+                "ADC": {
+                    "Champion": "Zeri",
+                    "Player": "Trigger",
+                    "KDA": "0/2/1"
+                },
+                "Support": {
+                    "Champion": "Heimerdinger",
+                    "Player": "Veignorem",
+                    "KDA": "0/4/1"
+                }
+            }
+        },
+        "ROG": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Gnar",
+                    "Player": "MeLoNiK",
+                    "KDA": "4/0/4"
+                },
+                "Jungle": {
+                    "Champion": "Vi",
+                    "Player": "Shlatan",
+                    "KDA": "2/1/6"
+                },
+                "Mid": {
+                    "Champion": "Syndra",
+                    "Player": "Peng",
+                    "KDA": "4/0/5"
+                },
+                "ADC": {
+                    "Champion": "Varus",
+                    "Player": "TakeSet",
+                    "KDA": "2/0/5"
+                },
+                "Support": {
+                    "Champion": "Jhin",
+                    "Player": "Steeelback",
+                    "KDA": "3/0/7"
+                }
+            }
+        }
+    },
+    "44576": {
+        "MatchURL": "https://gol.gg/game/stats/44576/page-game/",
+        "Score": "0 - 1",
+        "GameTime": "38:39",
+        "LDLC OL": {
+            "Side": "Blue",
+            "Players": {
+                "Top": {
+                    "Champion": "Kennen",
+                    "Player": "Agresivoo",
+                    "KDA": "1/2/5"
+                },
+                "Jungle": {
+                    "Champion": "Viego",
+                    "Player": "Maxi",
+                    "KDA": "3/1/6"
+                },
+                "Mid": {
+                    "Champion": "Cassiopeia",
+                    "Player": "Reeker",
+                    "KDA": "2/3/1"
+                },
+                "ADC": {
+                    "Champion": "Varus",
+                    "Player": "xmatty",
+                    "KDA": "2/3/6"
+                },
+                "Support": {
+                    "Champion": "Renata Glasc",
+                    "Player": "Erdote",
+                    "KDA": "1/3/7"
+                }
+            }
+        },
+        "BDSA": {
+            "Side": "Red",
+            "Players": {
+                "Top": {
+                    "Champion": "Jax",
+                    "Player": "Kryze",
+                    "KDA": "3/1/1"
+                },
+                "Jungle": {
+                    "Champion": "Wukong",
+                    "Player": "White",
+                    "KDA": "3/2/4"
+                },
+                "Mid": {
+                    "Champion": "Ryze",
+                    "Player": "Backlund",
+                    "KDA": "3/2/2"
+                },
+                "ADC": {
+                    "Champion": "Kalista",
+                    "Player": "Jeskla",
+                    "KDA": "3/1/3"
+                },
+                "Support": {
+                    "Champion": "Soraka",
+                    "Player": "Zoelys",
+                    "KDA": "0/3/10"
+                }
+            }
+        }
+    }
+}

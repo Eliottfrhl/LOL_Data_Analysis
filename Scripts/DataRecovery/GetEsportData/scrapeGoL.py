@@ -6,7 +6,7 @@ LFL_23_URL = "https://gol.gg/tournament/tournament-matchlist/LFL%20Spring%202023
 
 
 class Tournament:
-    def __init__(self, tournament_url):
+    def __init__(self, tournament_url, headers=None):
         self.tournament_url = tournament_url
         self.headers = {
             'authority': 'www.google.com',
@@ -25,14 +25,17 @@ class Tournament:
 
         while True:
             GameLink_XPath = "/html/body/div/main/div[2]/div/div[3]/div/section/div/div/table/tbody/tr[" + str(i) + "]/td[1]/a"
+            Score_XPath = "/html/body/div/main/div[2]/div/div[3]/div/section/div/div/table/tbody/tr["+str(i)+"]/td[3]"
 
             try :
                 GameLinkElement = tree.xpath(GameLink_XPath)[0]
+                ScoreElement = tree.xpath(Score_XPath)[0]
                 short_match_url = GameLinkElement.get('href')
                 match_url = "https://gol.gg" + short_match_url[2:]
                 match_id = match_url.split("/")[5]
                 self.tournament_data[match_id] = {}
                 self.tournament_data[match_id]["MatchURL"] = match_url
+                self.tournament_data[match_id]["Score"] = ScoreElement.text
             except:
                 break
 
@@ -53,14 +56,13 @@ class Tournament:
         self.tournament_data[match_id][Team2] = {"Side":"Red", "Players":{}}
 
         for i,Position in enumerate(["Top", "Jungle", "Mid", "ADC", "Support"]):
-            RoleBlue_XPath = "/html/body/div/main/div[2]/div/div[3]/div/div/div/div[2]/div/div/div/div[1]/table/tbody/tr["+str(i+1)
+            RoleBlue_XPath = "/html/body/div/main/div[2]/div/div[3]/div/div/div/div[2]/div/div/div/div[1]/table/tr["+str(i+1)
             PlayerBlue_Data = {}
 
-            RoleRed_XPath = "/html/body/div/main/div[2]/div/div[3]/div/div/div/div[2]/div/div/div/div[2]/table/tbody/tr["+str(i+1)
+            RoleRed_XPath = "/html/body/div/main/div[2]/div/div[3]/div/div/div/div[2]/div/div/div/div[2]/table/tr["+str(i+1)
             PlayerRed_Data = {}
 
             ChampionBlue_XPath = RoleBlue_XPath + "]/td[1]/a[1]/img"
-            print(ChampionBlue_XPath)
             ChampionBlue = tree.xpath(ChampionBlue_XPath)[0].get('alt')
             PlayerBlue_Data["Champion"] = ChampionBlue
 
@@ -90,9 +92,12 @@ class Tournament:
     def retrieveAllMatchData(self):
         for match_id in self.tournament_data:
             self.retrieveMatchData(match_id)
+    
+    def storeData(self, filename):
+        with open(filename, 'w') as outfile:
+            json.dump(self.tournament_data, outfile, indent=4)
 
 LFL23 = Tournament(LFL_23_URL)
 LFL23.retrieveTournamentData()
 LFL23.retrieveAllMatchData()
-with open('LFL23.json', 'w') as outfile:
-    json.dump(LFL23.tournament_data, outfile, indent=4)
+LFL23.storeData("LFL23.json")
