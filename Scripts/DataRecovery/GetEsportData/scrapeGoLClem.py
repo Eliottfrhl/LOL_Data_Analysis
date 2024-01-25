@@ -12,11 +12,23 @@ headers = {
 URL = "https://gol.gg/tournament/tournament-matchlist/LEC%20Winter%20Season%202024/"
 site_url = "https://gol.gg/"
 response = requests.get(URL, headers = headers)
-html_content = response.content
+
+class LEC :
+    def __init__(self, URL, headers=None):
+        self.URL = URL
+        self.headers = headers = {
+            'authority': 'www.google.com',
+            'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+            'accept-language': 'en-US,en;q=0.9',
+            'cache-control': 'max-age=0',
+            'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36',
+            }
+        self.LEC_DATA = {}
+
+    def 
 
 
-soup = BeautifulSoup(html_content, "html.parser")
-
+        
 game_links = soup.find_all('a', title=lambda value : value and 'vs' in value)
 
 for link in game_links:
