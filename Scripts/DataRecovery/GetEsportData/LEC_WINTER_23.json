@@ -1,1 +1,322 @@
-{}
+{
+    "Rogue": {
+        "TeamName": "Rogue",
+        "Matches": {
+            "GIANTX vs Rogue": {
+                "info": "Information about GIANTX vs Rogue"
+            },
+            "Team BDS vs Rogue": {
+                "info": "Information about Team BDS vs Rogue"
+            },
+            "KC vs Rogue": {
+                "info": "Information about KC vs Rogue"
+            },
+            "MDK vs Rogue": {
+                "info": "Information about MDK vs Rogue"
+            },
+            "Fnatic vs Rogue": {
+                "info": "Information about Fnatic vs Rogue"
+            },
+            "VIT vs Rogue": {
+                "info": "Information about VIT vs Rogue"
+            },
+            "G2 Esports vs Rogue": {
+                "info": "Information about G2 Esports vs Rogue"
+            },
+            "Rogue vs TH": {
+                "info": "Information about Rogue vs TH"
+            },
+            "SK Gaming vs Rogue": {
+                "info": "Information about SK Gaming vs Rogue"
+            }
+        }
+    },
+    "MDK": {
+        "TeamName": "MDK",
+        "Matches": {
+            "VIT vs MDK": {
+                "info": "Information about VIT vs MDK"
+            },
+            "MDK vs GIANTX": {
+                "info": "Information about MDK vs GIANTX"
+            },
+            "Fnatic vs MDK": {
+                "info": "Information about Fnatic vs MDK"
+            },
+            "MDK vs Rogue": {
+                "info": "Information about MDK vs Rogue"
+            },
+            "MDK vs Team BDS": {
+                "info": "Information about MDK vs Team BDS"
+            },
+            "MDK vs G2 Esports": {
+                "info": "Information about MDK vs G2 Esports"
+            },
+            "KC vs MAD": {
+                "info": "Information about KC vs MAD"
+            },
+            "MAD vs SK Gaming": {
+                "info": "Information about MAD vs SK Gaming"
+            },
+            "MAD vs TH": {
+                "info": "Information about MAD vs TH"
+            }
+        }
+    },
+    "KC": {
+        "TeamName": "KC",
+        "Matches": {
+            "Team BDS vs KC": {
+                "info": "Information about Team BDS vs KC"
+            },
+            "SK Gaming vs KC": {
+                "info": "Information about SK Gaming vs KC"
+            },
+            "KC vs Rogue": {
+                "info": "Information about KC vs Rogue"
+            },
+            "TH vs KC": {
+                "info": "Information about TH vs KC"
+            },
+            "VIT vs KC": {
+                "info": "Information about VIT vs KC"
+            },
+            "GIANTX vs KC": {
+                "info": "Information about GIANTX vs KC"
+            },
+            "KC vs MAD": {
+                "info": "Information about KC vs MAD"
+            },
+            "G2 Esports vs KC": {
+                "info": "Information about G2 Esports vs KC"
+            },
+            "Fnatic vs KC": {
+                "info": "Information about Fnatic vs KC"
+            }
+        }
+    },
+    "Team BDS": {
+        "TeamName": "Team BDS",
+        "Matches": {
+            "Team BDS vs KC": {
+                "info": "Information about Team BDS vs KC"
+            },
+            "Team BDS vs Rogue": {
+                "info": "Information about Team BDS vs Rogue"
+            },
+            "TH vs Team BDS": {
+                "info": "Information about TH vs Team BDS"
+            },
+            "SK Gaming vs Team BDS": {
+                "info": "Information about SK Gaming vs Team BDS"
+            },
+            "MDK vs Team BDS": {
+                "info": "Information about MDK vs Team BDS"
+            },
+            "Fnatic vs Team BDS": {
+                "info": "Information about Fnatic vs Team BDS"
+            },
+            "Team BDS vs VIT": {
+                "info": "Information about Team BDS vs VIT"
+            },
+            "GIANTX vs Team BDS": {
+                "info": "Information about GIANTX vs Team BDS"
+            },
+            "G2 Esports vs Team BDS": {
+                "info": "Information about G2 Esports vs Team BDS"
+            }
+        }
+    },
+    "GIANTX": {
+        "TeamName": "GIANTX",
+        "Matches": {
+            "GIANTX vs Rogue": {
+                "info": "Information about GIANTX vs Rogue"
+            },
+            "MDK vs GIANTX": {
+                "info": "Information about MDK vs GIANTX"
+            },
+            "GIANTX vs G2 Esports": {
+                "info": "Information about GIANTX vs G2 Esports"
+            },
+            "Fnatic vs GIANTX": {
+                "info": "Information about Fnatic vs GIANTX"
+            },
+            "SK Gaming vs GIANTX": {
+                "info": "Information about SK Gaming vs GIANTX"
+            },
+            "GIANTX vs KC": {
+                "info": "Information about GIANTX vs KC"
+            },
+            "GIANTX vs TH": {
+                "info": "Information about GIANTX vs TH"
+            },
+            "GIANTX vs Team BDS": {
+                "info": "Information about GIANTX vs Team BDS"
+            },
+            "GIANTX vs VIT": {
+                "info": "Information about GIANTX vs VIT"
+            }
+        }
+    },
+    "VIT": {
+        "TeamName": "VIT",
+        "Matches": {
+            "VIT vs MDK": {
+                "info": "Information about VIT vs MDK"
+            },
+            "VIT vs TH": {
+                "info": "Information about VIT vs TH"
+            },
+            "VIT vs SK Gaming": {
+                "info": "Information about VIT vs SK Gaming"
+            },
+            "VIT vs G2 Esports": {
+                "info": "Information about VIT vs G2 Esports"
+            },
+            "VIT vs KC": {
+                "info": "Information about VIT vs KC"
+            },
+            "VIT vs Rogue": {
+                "info": "Information about VIT vs Rogue"
+            },
+            "Team BDS vs VIT": {
+                "info": "Information about Team BDS vs VIT"
+            },
+            "Fnatic vs VIT": {
+                "info": "Information about Fnatic vs VIT"
+            },
+            "GIANTX vs VIT": {
+                "info": "Information about GIANTX vs VIT"
+            }
+        }
+    },
+    "G2 Esports": {
+        "TeamName": "G2 Esports",
+        "Matches": {
+            "SK Gaming vs G2 Esports": {
+                "info": "Information about SK Gaming vs G2 Esports"
+            },
+            "Fnatic vs G2 Esports": {
+                "info": "Information about Fnatic vs G2 Esports"
+            },
+            "GIANTX vs G2 Esports": {
+                "info": "Information about GIANTX vs G2 Esports"
+            },
+            "VIT vs G2 Esports": {
+                "info": "Information about VIT vs G2 Esports"
+            },
+            "TH vs G2 Esports": {
+                "info": "Information about TH vs G2 Esports"
+            },
+            "MDK vs G2 Esports": {
+                "info": "Information about MDK vs G2 Esports"
+            },
+            "G2 Esports vs Rogue": {
+                "info": "Information about G2 Esports vs Rogue"
+            },
+            "G2 Esports vs KC": {
+                "info": "Information about G2 Esports vs KC"
+            },
+            "G2 Esports vs Team BDS": {
+                "info": "Information about G2 Esports vs Team BDS"
+            }
+        }
+    },
+    "SK Gaming": {
+        "TeamName": "SK Gaming",
+        "Matches": {
+            "SK Gaming vs G2 Esports": {
+                "info": "Information about SK Gaming vs G2 Esports"
+            },
+            "SK Gaming vs KC": {
+                "info": "Information about SK Gaming vs KC"
+            },
+            "VIT vs SK Gaming": {
+                "info": "Information about VIT vs SK Gaming"
+            },
+            "SK Gaming vs Team BDS": {
+                "info": "Information about SK Gaming vs Team BDS"
+            },
+            "SK Gaming vs GIANTX": {
+                "info": "Information about SK Gaming vs GIANTX"
+            },
+            "SK Gaming vs TH": {
+                "info": "Information about SK Gaming vs TH"
+            },
+            "Fnatic vs SK Gaming": {
+                "info": "Information about Fnatic vs SK Gaming"
+            },
+            "MAD vs SK Gaming": {
+                "info": "Information about MAD vs SK Gaming"
+            },
+            "SK Gaming vs Rogue": {
+                "info": "Information about SK Gaming vs Rogue"
+            }
+        }
+    },
+    "TH": {
+        "TeamName": "TH",
+        "Matches": {
+            "Fnatic vs TH": {
+                "info": "Information about Fnatic vs TH"
+            },
+            "VIT vs TH": {
+                "info": "Information about VIT vs TH"
+            },
+            "TH vs Team BDS": {
+                "info": "Information about TH vs Team BDS"
+            },
+            "TH vs KC": {
+                "info": "Information about TH vs KC"
+            },
+            "TH vs G2 Esports": {
+                "info": "Information about TH vs G2 Esports"
+            },
+            "SK Gaming vs TH": {
+                "info": "Information about SK Gaming vs TH"
+            },
+            "GIANTX vs TH": {
+                "info": "Information about GIANTX vs TH"
+            },
+            "Rogue vs TH": {
+                "info": "Information about Rogue vs TH"
+            },
+            "MAD vs TH": {
+                "info": "Information about MAD vs TH"
+            }
+        }
+    },
+    "Fnatic": {
+        "TeamName": "Fnatic",
+        "Matches": {
+            "Fnatic vs TH": {
+                "info": "Information about Fnatic vs TH"
+            },
+            "Fnatic vs G2 Esports": {
+                "info": "Information about Fnatic vs G2 Esports"
+            },
+            "Fnatic vs MDK": {
+                "info": "Information about Fnatic vs MDK"
+            },
+            "Fnatic vs GIANTX": {
+                "info": "Information about Fnatic vs GIANTX"
+            },
+            "Fnatic vs Rogue": {
+                "info": "Information about Fnatic vs Rogue"
+            },
+            "Fnatic vs Team BDS": {
+                "info": "Information about Fnatic vs Team BDS"
+            },
+            "Fnatic vs SK Gaming": {
+                "info": "Information about Fnatic vs SK Gaming"
+            },
+            "Fnatic vs VIT": {
+                "info": "Information about Fnatic vs VIT"
+            },
+            "Fnatic vs KC": {
+                "info": "Information about Fnatic vs KC"
+            }
+        }
+    }
+}
